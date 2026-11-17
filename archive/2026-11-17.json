@@ -1,5 +1,1657 @@
 [
  {
+  "source": "The Hindu",
+  "title": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+  "text": "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner",
+  "url": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
+  "date": "2026-11-17T22:20:14+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Henry Nowak killer applies to appeal against conviction",
+  "text": "Vicrum Digwa, who fatally stabbed Nowak in Southampton in 2015, is also seeking a sentence review.",
+  "url": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T22:17:47+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
+  "text": "There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.",
+  "url": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
+  "date": "2026-11-17T22:08:36+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+  "text": "US President Donald Trump has been trying to fire Cook since August 2025.",
+  "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+  "date": "2026-11-17T22:01:27+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Shock and Dread in the Gulf",
+  "text": "Gulf countries talk about the consequences of a war against Iran not of their making.",
+  "url": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
+  "date": "2026-11-17T22:00:06+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Nvidia Beats Estimates In First Earnings Report Without Jensen Huang",
+  "text": "American chips giant Nvidia exceeded analysts' expectations on Tuesday when it reported $115.8 billion in total revenue in its third quarter, double o",
+  "url": "https://www.ndtv.com/world-news/nvidia-beats-third-quarter-expectations-in-first-earnings-report-since-jensen-huangs-resignation-12341344#publisher=newsstand",
+  "date": "2026-11-17T21:56:32+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+  "text": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benj",
+  "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+  "date": "2026-11-17T21:54:22+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+  "text": "Iran’s negotiating position has hardened since the midterms, U.S. and other Western officials say. An American lawmaker warned that Iran felt “strateg",
+  "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+  "date": "2026-11-17T21:53:10+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Merck stops trials of blood cancer drug after risk assessment",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFlGSl82UHl6NG5yQi1WRzFuQlhLMDNHTFEyYkpNcVUyQUJ2a1NUQkRpaDRqUGRBSVBMNk11VkkzYUdnR2ZJaGFUY2NoZmtOUHUxc1I4cU4ydW9XME1hMW96NHk3ckVtYlNPVnhiamRnVGhLZEJ4MGFYS2tXa2liWnBZd0NtUUc3YzVjdjczR2FEbmJLVUI3QlJkSWhKajlSU3VLWWhES2hQZDhLYThUZHdLVVAwM2JacWRuWk1JcHVSWkE1c0QxOUln?oc=5",
+  "date": "2026-11-17T21:49:44+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Construction activities on Kaziranga wildlife corridors flagged",
+  "text": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
+  "url": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+  "date": "2026-11-17T21:44:11+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+  "text": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+  "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+  "date": "2026-11-17T21:39:25+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+  "text": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+  "date": "2026-11-17T21:35:24+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+  "text": "The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabiliti",
+  "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+  "date": "2026-11-17T21:34:43+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+  "text": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
+  "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
+  "date": "2026-11-17T21:30:56+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+  "text": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+  "date": "2026-11-17T21:28:31+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+  "text": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+  "date": "2026-11-17T21:26:42+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Moment Russian military plane crashes in Siberia, killing 19",
+  "text": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+  "date": "2026-11-17T21:25:43+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Haryana CM Saini visits injured personnel after vehicle deployed for his security plunges into gorge in Morni",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZDFHX2poT1hEekhZUjc0QUdqR0xsOVNWeE42aEh1LWdYVUt1QVpoUDJ4cWJpZWN0cnFISVRZRDZPekR6TVNNUjVmUmFPUkJTT05HQi1ZdVRNaWdsdWVzbzNSS1RnN1pPNml4UEtWcGFnb3V4V09OREYxNWt2S0loaWRJVTZ6dzJ4d0FUNTEwWnBJYnBpLXFiYTd5RXZGSS1wY3hZbnY0YkZ2SHJvLUNNTXdxalppZHdGQm1hOUppbzVIZGFtZGhCUVZ2c0dzMGtBWWcybG1SQUZMUFJPRHFzY0VVUEViZDc1alJ2SjF3aUZLX1BPYlhXcjY3Ujl4a2VrU2Yw?oc=5",
+  "date": "2026-11-17T21:24:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Azam Khan Gets Relief As Supreme Court Stays Conviction, High Court Grants Interim Bail",
+  "text": "According to Azam Khan's lawyer, the Samajwadi Party leader, who is presently lodged at the Dasana jail in Ghaziabad, is likely to be released on Wedn",
+  "url": "https://www.ndtv.com/india-news/azam-khan-gets-relief-as-supreme-court-stays-conviction-high-court-grants-interim-bail-12341315#publisher=newsstand",
+  "date": "2026-11-17T21:23:58+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+  "text": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+  "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+  "date": "2026-11-17T21:22:40+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+  "text": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+  "date": "2026-11-17T21:14:31+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
+  "text": "The exact size of the Democratic majority in Congress was undetermined as recounts were sought in two races in North Carolina and one in Minnesota two",
+  "url": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
+  "date": "2026-11-17T21:11:19+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Russian military plane crashes killing all 19 on board",
+  "text": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+  "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T21:06:11+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+  "text": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Wa",
+  "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+  "date": "2026-11-17T21:04:16+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "US loses measles elimination status after 26 years amid record case numbers",
+  "text": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+  "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T21:04:00+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+  "date": "2026-11-17T21:01:55+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+  "text": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+  "date": "2026-11-17T20:57:56+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0pXXzZmdzBxM201cG9rM2UxQmZNUE9pUGxDRUZNTEN6VjliWHdHMjJPbjd5TEx3Q1VhT3RLMG1veEJ6UFIwYms3Vm54amRYbVFIUTBXdDJTSUFQbVlrVzVCN1A5eXdXeHRrVVdzRUYtMWNDLUVDQWMxVUZfLUtieURpa0tWM29jSzB5WEdzQnZsc0cyTUpoSEZkVEpZYkF3LTVfcTZyNVplcFNmN1Vod2U3SlhkYUFx?oc=5",
+  "date": "2026-11-17T20:55:04+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
+  "date": "2026-11-17T20:53:40+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Classified US national security communications network hit by outage, NSA says",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
+  "date": "2026-11-17T20:53:08+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+  "text": "The nation was once regarded as a global leader for reining in the highly contagious virus. Now, large outbreaks that sicken thousands could become ro",
+  "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+  "date": "2026-11-17T20:52:05+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5",
+  "date": "2026-11-17T20:51:26+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside companies",
+  "text": "He made the statement during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts",
+  "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+  "date": "2026-11-17T20:47:09+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "What’s behind the ANC’s decline in South Africa?",
+  "text": "African National Congress won its lowest-ever vote share in local elections this month.",
+  "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+  "date": "2026-11-17T20:47:07+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+  "text": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+  "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T20:44:54+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Apple works to restore services after outage caused by internal update",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5",
+  "date": "2026-11-17T20:44:09+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Tensions rise over draft climate deal at COP31",
+  "text": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
+  "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+  "date": "2026-11-17T20:40:29+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Big Money, Existential Risks",
+  "text": "Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.",
+  "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
+  "date": "2026-11-17T20:39:09+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Schools Are Closing Nationwide as Enrollment Drops. Parents Are Livid.",
+  "text": "With fewer babies being born and more school choice, districts across the country have concluded they must downsize. Families are trying to push back.",
+  "url": "https://www.nytimes.com/2026/11/17/us/public-schools-closing-birth-rate-enrollment.html",
+  "date": "2026-11-17T20:35:53+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Elderly Couple, Student Killed In Road Accidents In UP: Cops",
+  "text": "According to police sources, a speeding truck travelling from Sirsaganj towards Firozabad hit a motorcycle carrying the couple near the Mandi Samiti o",
+  "url": "https://www.ndtv.com/india-news/elderly-couple-student-killed-in-road-accidents-in-up-cops-12341262#publisher=newsstand",
+  "date": "2026-11-17T20:35:17+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
+  "text": "The SFI leaders said they sought permission from the Kolkata Police to set up a bookstall on the College Street footpath, but police refused on Novemb",
+  "url": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
+  "date": "2026-11-17T20:22:19+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Kalshi halts Trump speech bets after CFTC order",
+  "text": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+  "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+  "date": "2026-11-17T20:20:18+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "US judge blocks Trump policy restricting foreign student work options",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3gzZDJKWWpaVi16QV82QTNET1J3NS1ZN0NWUXlPSDY4VjloVEJuMGxaYnMtVDhJOFBOeU9lMDBfU1V0RHFFbUtKMUxnRkFfZXo4eG9RaUhEc0xiZVpPTHBvNWtObXdmSk9hSnBWQ2RkQTlTRDRlblJNbjVxaUZSQkVpeUdXMHNCNExWaHpmN0VEVHluQ1I2SDAwRm9aVXlkVHA5QjR6YUlSUm9PWmhYTVNPS2VTc2JEYVNVaF8yUQ?oc=5",
+  "date": "2026-11-17T20:18:41+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Police charge crowds at Brussels student march",
+  "text": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+  "date": "2026-11-17T20:14:07+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Elanthoor human sacrifice case: witness examination nearing final stage",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/kerala/elanthoor-human-sacrifice-case-witness-examination-nearing-final-stage/article71712944.ece",
+  "date": "2026-11-17T20:12:44+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
+  "text": "The incident caused disrepute to the image of the institution in the public domain, finds inquiry report",
+  "url": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+  "date": "2026-11-17T20:12:21+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+  "text": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+  "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+  "date": "2026-11-17T20:11:41+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Protest against talk by academic who made Arday plagiarism claim",
+  "text": "Nathan Cofnas accused late Cambridge professor Jason Arday of plagiarism.",
+  "url": "https://www.bbc.co.uk/news/articles/c61md50k8vx4o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T20:09:03+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Man Wanted In Delhi Bar Firing Shot In Leg During Encounter",
+  "text": "The accused, Satinder alias Kanta (30), sustained a bullet injury in his leg during the exchange of fire when a police team went to Sonia Vihar to app",
+  "url": "https://www.ndtv.com/delhi-news/man-wanted-in-delhi-bar-firing-shot-in-leg-during-encounter-12341220#publisher=newsstand",
+  "date": "2026-11-17T20:07:37+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Deutsche Bank leaks test CEO Sewing's pledge to reform",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGkzOUtobHd0eVZMTGxUT3d1VC1aSGRIeW8tRDRmTGtTY3JsQTlOdGFMVk9NVFdpLUhjZk9Qb3NUX3dPelJLSVJPVkhZVnAzUFh3c2tVREhtYXFNWWtSS3FMU1lSOEt0RXRjajZSbzc3RFdGQXNTZjNBN19BV2dya0tEMTJYWkk0SEpkazZOMDRjMW5vMVV5NThRNGRWUnJPaF8wbmhn?oc=5",
+  "date": "2026-11-17T20:05:44+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kochi woman loses ₹90,000 in credit card activation scam",
+  "text": "The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a cr",
+  "url": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
+  "date": "2026-11-17T20:04:19+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kerala High Court allows Cusat employees to seek review of suspension",
+  "text": "The court directed the Syndicate to examine whether the continued suspension was justified",
+  "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+  "date": "2026-11-17T20:01:05+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Opposition, ruling councillors in Keralam’s Kochi Corporation spar over Thuruthy Towers, ro-ro service at stormy council meet",
+  "text": "LDF seeks dates for apartment handover and launch of third ro-ro vessel; UDF cites procedural delays in commissioning vessel; Opposition alleges UDF i",
+  "url": "https://www.thehindu.com/news/national/kerala/opposition-ruling-councillors-in-keralams-kochi-corporation-spar-over-thuruthy-towers-ro-ro-service-at-stormy-council-meet/article71713463.ece",
+  "date": "2026-11-17T19:58:06+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kerala HC allows amended plea by suspended Sanskrit varsity students against inquiry report",
+  "text": "The students had challenged the suspension order and sought permission to appear for the semester examinations in their original petition",
+  "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-amended-plea-by-suspended-sanskrit-varsity-students-against-inquiry-report/article71712319.ece",
+  "date": "2026-11-17T19:57:22+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "India’s footballers celebrate SAFF final win against Pakistan",
+  "text": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+  "date": "2026-11-17T19:56:00+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+  "text": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese in",
+  "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+  "date": "2026-11-17T19:55:48+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ahead of polls, BJP plans extensive public outreach campaign and stronger booth level management in U.P.",
+  "text": "BJP national president Nitin Nabin said the BJP would register a historic victory in Uttar Pradesh for the third consecutive time in 2027",
+  "url": "https://www.thehindu.com/news/national/ahead-of-polls-bjp-to-focus-on-extensive-public-outreach-campaign-and-stronger-booth-level-management-in-up/article71712599.ece",
+  "date": "2026-11-17T19:55:18+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+  "text": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terroris",
+  "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+  "date": "2026-11-17T19:50:00+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
+  "text": "Maharashtra Environment and Climate Change Minister Pankaja Munde called for global cooperation to protect the planet for future generations",
+  "url": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
+  "date": "2026-11-17T19:49:26+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Release long-incarcerated Muslims on humanitarian grounds, says Jawahirullah",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/release-long-incarcerated-muslims-on-humanitarian-grounds-says-jawahirullah/article71713338.ece",
+  "date": "2026-11-17T19:48:43+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "19 Killed As Russian Military Transport Plane Crashes In Siberia",
+  "text": "The plane, an Antonov An-12, reportedly crashed in Siberia's Kemerovo region.",
+  "url": "https://www.ndtv.com/world-news/13-killed-as-russian-military-transport-plane-crashes-in-siberia-report-12341047#publisher=newsstand",
+  "date": "2026-11-17T19:48:04+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Vijay inspects 108 emergency response call centre in Chennai",
+  "text": "As part of efforts to further strengthen the 108 emergency ambulance service, the government has already issued orders for the procurement of an addit",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-inspects-108-emergency-response-call-centre-in-chennai/article71711738.ece",
+  "date": "2026-11-17T19:46:58+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Messi row: Kerala HC directs Reporter TV to appear before Kollam GST intelligence unit",
+  "text": "Irregularities were alleged in the agreement between Reporter Broadcasting Company Private Limited and Argentine Football Association in connection wi",
+  "url": "https://www.thehindu.com/news/national/kerala/messi-row-kerala-hc-directs-reporter-tv-to-appear-before-kollam-gst-intelligence-unit/article71712706.ece",
+  "date": "2026-11-17T19:46:42+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kerala High Court dismisses lawyer’s plea for contempt proceedings against judge",
+  "text": "The court observed that the petitioner’s capacity as a lawyer was not in question and that she should not worry about social media comments",
+  "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-dismisses-lawyers-plea-for-contempt-proceedings-against-judge/article71712101.ece",
+  "date": "2026-11-17T19:46:14+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kerala Pravasi association chief taken to Bengaluru for evidence collection",
+  "text": "Rajendran Vellapalath, chairman of the Kerala Pravasi Association, was arrested for his alleged involvement in forging documents purportedly issued in",
+  "url": "https://www.thehindu.com/news/national/kerala/kerala-pravasi-association-chief-taken-to-bengaluru-for-evidence-collection/article71713106.ece",
+  "date": "2026-11-17T19:44:25+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJFWTJkVUZ1ZEd6eDR1VEtvREpLSzFOSFRyX2RaWUlaeEt3OGw0THRHVXk1T3doaDJRb1JIS2ZnQVNUbnZGeURDR3VwWmhZeURmUWF0cndTZ2g3X3VabFBNNFZDSkloVjRWUDdwdlFqWEtRUFUtc1BvZ3RkYTdBVndxM3NWZHRhME1zaEhfZElXQWRiUFByU1hlOVF4eGZtQVhwbkpvTWQtTUxneklSdjZIZHVXS21nR2dzbHduazFlaEVKbGlpbDZDMEVLMEU?oc=5",
+  "date": "2026-11-17T19:44:16+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ruling party MLA’s charge-sheet against govt. speaks volumes about corruption in Cong. rule: BRS",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/telangana/ruling-party-mlas-charge-sheet-against-govt-speaks-volumes-about-corruption-in-cong-rule-brs/article71712964.ece",
+  "date": "2026-11-17T19:44:12+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Can a robot pianist upstage a human musician?",
+  "text": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+  "date": "2026-11-17T19:43:50+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Madras High Court restrains music licensing company from interfering with playing of songs during a wedding after-party",
+  "text": "Justice P.B. Balaji says, the couple must not be put to any kind of inconvenience, prejudice or embarrassment in front of the guests",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-restrains-music-licensing-company-from-interfering-with-playing-of-songs-during-a-wedding-after-party/article71713425.ece",
+  "date": "2026-11-17T19:43:42+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kochi Corporation to seek govt. relief for building tax defaulters",
+  "text": "A resolution to this effect was moved by Vaduthala West councillor Jismy Jerald, highlighting a similar issue faced by around 160 families who were as",
+  "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-seek-govt-relief-for-building-tax-defaulters/article71712738.ece",
+  "date": "2026-11-17T19:42:51+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "US Takes Custody Of Army Officer Accused Of Spying For Russia In UK",
+  "text": "Lt. Col. Brandon Tyner, 41, was arrested November 10 on suspicion of violating the National Security Act by assisting a foreign intelligence service a",
+  "url": "https://www.ndtv.com/world-news/us-takes-custody-of-army-officer-accused-of-spying-for-russia-in-uk-12341180#publisher=newsstand",
+  "date": "2026-11-17T19:42:46+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "No SpiceJet Departures Since 7 pm, Hundreds Of Passengers Stranded In Mumbai",
+  "text": "Visuals showed a crowd gathered at the airline's counter at the airport, with frustrated passengers shouting slogans against the low-cost carrier.",
+  "url": "https://www.ndtv.com/world-news/no-spicejet-departures-from-mumbai-airport-since-7-pm-hundreds-of-passengers-stranded-12341118#publisher=newsstand",
+  "date": "2026-11-17T19:42:15+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+  "text": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+  "date": "2026-11-17T19:41:45+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "NGT declines to stay EC given to Musi river front project",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/telangana/ngt-declines-to-stay-ec-given-to-musi-river-front-project/article71712952.ece",
+  "date": "2026-11-17T19:41:04+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "US strikes Iranian missile launch site on Qeshm Island, US official says",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENzVXNRVjR0NU9lejlJWll3U01GOENvbnlKVWJuZG9ZSmwtdVRXSDRPZ3JGcGZnSGhfQmYzNnFRQ0p4d2ZaZk80Q0NKUEgtdTI3cmFwb2JxT1FOamJYVllwTFR3UV9ZN2xfMTNTTFZiS0gtSjU2Q3B6dkVLUmgyYzlpcHprNXdCMEdST0RqNkdkTEgycGFEQkVwY01yWENOcVNpYWpFYlRrRG1waGlwVHNKM3h5UHBidHpMcXlkcw?oc=5",
+  "date": "2026-11-17T19:40:13+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Isha Marathe",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QQ3h6dUEwOUVpQkZhdWhvZG9MWGxVV2ktSENDQzNmUFZiRld5MXBCZVBRYkd0YkswbXp6SkZHamtaRUc4UkN6VEtIb1pxaWxZQkNQM2F2Vkk?oc=5",
+  "date": "2026-11-17T19:36:11+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Ugandan human trafficking survivor uses music to fight abuse",
+  "text": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+  "date": "2026-11-17T19:32:44+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "India needs a comprehensive doctrine on space security",
+  "text": "India’s objective should not be to turn outer space into another arena of conflict, but to ensure that disruption in space does not translate into vul",
+  "url": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
+  "date": "2026-11-17T19:32:33+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"Created Problems, Deeply Regret\": Jensen Huang's Full Statement",
+  "text": "\"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,\" said Jensen Huang.",
+  "url": "https://www.ndtv.com/world-news/created-problems-own-my-mistakes-jensen-huangs-full-statement-12340527#publisher=newsstand",
+  "date": "2026-11-17T19:31:47+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+  "text": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
+  "date": "2026-11-17T19:31:30+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Transgender rights, healthcare should not be compromised",
+  "text": "Clinical understanding of the care needs of a transgender person remains rudimentary in India. Doctors, nurses, receptionists, security staff and hosp",
+  "url": "https://www.thehindu.com/opinion/lead/transgender-rights-healthcare-should-not-be-compromised/article71713242.ece",
+  "date": "2026-11-17T19:30:41+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Church of England should protect 'every belief', King says",
+  "text": "King Charles III was speaking at the opening of General Synod, the Church of England's national assembly",
+  "url": "https://www.bbc.co.uk/news/articles/cwy80x44vxk7o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T19:29:44+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Madras HC orders mandatory licensing and tagging of cattle in urban areas across Tamil Nadu to prevent motor accidents",
+  "text": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan direct civic bodies to impound the cattle let loose on roads and impose heavy p",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-orders-mandatory-licensing-and-tagging-of-cattle-in-urban-areas-across-tamil-nadu-to-prevent-motor-accidents/article71712536.ece",
+  "date": "2026-11-17T19:28:20+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "IIT-Madras to train teachers in AI literacy across India",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-teachers-in-ai-literacy-across-india/article71712926.ece",
+  "date": "2026-11-17T19:21:42+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "AI Agents Could Displace About 10% Of Workers In 5 Years: IBM Chief To NDTV",
+  "text": "Artificial Intelligence will not take away many jobs, and it will generate different kinds of jobs. And as of now, there are three areas where they ca",
+  "url": "https://www.ndtv.com/india-news/ai-agents-could-displace-about-10-of-workers-in-5-years-ibm-chief-to-ndtv-12341127#publisher=newsstand",
+  "date": "2026-11-17T19:19:58+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "A.I.’s People-Pleasing Problem",
+  "text": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
+  "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+  "date": "2026-11-17T19:16:41+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Tension erupts outside Vanchiyoor court after verdict in Ranjith murder case",
+  "text": "BJP and CPI(M) workers confronted each other, while police personnel also faced resistance from protesters as the convicts were escorted out of the Va",
+  "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/tension-erupts-outside-vanchiyoor-court-after-verdict-in-ranjith-murder-case/article71712043.ece",
+  "date": "2026-11-17T19:15:30+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Thirupparankundram row: T.N. govt pushes for stay of HC order to avoid breach of peace",
+  "text": "The HC had confirmed an earlier order to the Arulmigu Subramaniaswamy Temple devasthanam or management body to light the Karthigai Deepam on a stone p",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-tn-govt-pushes-for-stay-of-hc-order-to-avoid-breach-of-peace/article71713024.ece",
+  "date": "2026-11-17T19:11:07+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "More than 100,000 take part in France pay protests",
+  "text": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+  "date": "2026-11-17T19:09:49+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Punjab Government Delaying Stay On Anti-Sacrilege Bill: Akal Takht Panel",
+  "text": "The Akal Takht committee reiterated that the Punjab Government must provide clear answers to the two questions raised on November 14.",
+  "url": "https://www.ndtv.com/india-news/punjab-government-delaying-stay-on-anti-sacrilege-bill-akal-takht-panel-12341103#publisher=newsstand",
+  "date": "2026-11-17T19:03:58+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+  "text": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+  "date": "2026-11-17T19:03:14+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+  "text": "The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.",
+  "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+  "date": "2026-11-17T18:59:25+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+  "text": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+  "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:58:57+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Stalin avoids Rahul’s phone call, greets Sonia on her book",
+  "text": "Sources say DMK chief didn’t wish to engage with Congress leader following strains in their ‘brotherly’ bond in the run-up to the last Assembly electi",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-avoids-rahuls-phone-call-greets-sonia-on-her-book/article71713431.ece",
+  "date": "2026-11-17T18:55:27+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "'Ask Your Father': Union Minister To Tejashwi Yadav Over Nitish Setu Remark",
+  "text": "Lalan Singh questioned the development record of the 15-year tenure of former Bihar Chief Ministers Lalu Prasad Yadav and Rabri Devi and asked the RJD",
+  "url": "https://www.ndtv.com/india-news/ask-your-father-union-minister-lalan-singh-to-tejashwi-yadav-over-nitish-setu-remark-12341086#publisher=newsstand",
+  "date": "2026-11-17T18:53:33+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Monster waves threaten California coast as storms intensify",
+  "text": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+  "date": "2026-11-17T18:53:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"Small Gesture Speaks Volumes\": PM Picks Up Flag Marker During Quad Photo-Op",
+  "text": "The moment unfolded as Prime Minister Modi, US President Donald Trump, Australian Prime Minister Anthony Albanese and Japanese Prime Minister Sanae Ta",
+  "url": "https://www.ndtv.com/world-news/small-gesture-speaks-volumes-pm-picks-up-flag-marker-during-quad-photo-op-12341079#publisher=newsstand",
+  "date": "2026-11-17T18:50:41+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "China Sacks Scientist After 6-Year-Old Dies In Gene-Editing Trial",
+  "text": "The girl died last year after receiving experimental gene therapy to correct a non-life-threatening condition -- which was not disclosed in published ",
+  "url": "https://www.ndtv.com/world-news/china-sacks-scientist-after-6-year-old-dies-in-gene-editing-trial-12341077#publisher=newsstand",
+  "date": "2026-11-17T18:49:50+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Mozambique opposition leader goes on trial on terrorism charges",
+  "text": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+  "date": "2026-11-17T18:48:15+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Indian limbo skater breaks world record",
+  "text": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+  "date": "2026-11-17T18:47:59+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Crew abandons gas tanker off Oman after being hit by projectile, sources say",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0ZTTkw2LWNabWNsdzBOM1FzRF9nWk45NHcybXI1RHk2RF8wZDRDeDRiNE9uT202T2RWRHRqd1AzcFg5LWtlY3M2dlo4eTIzZHRVaUZKX21FUE5tcVNzR2VnT3RWRHdXbmU4QXlRUmZzWFZIZVZ0M2hXeFR6RE1QM1U0OWlDMi1SLUQ2V2tBVDFlU3lxM2lpeXRNa21CNjFMQTlOZV9MekM0WWUtREZHWmZ4TGJUa2dhNUxObDBIcTRRSGgwSUg0MXVB?oc=5",
+  "date": "2026-11-17T18:46:04+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Apple Services, Including iCloud And App Store, Down For Thousands Of Users",
+  "text": "Multiple users complained that they were unexpectedly signed out of iCloud on their Apple devices and faced verification failures while trying to sign",
+  "url": "https://www.ndtv.com/world-news/apple-services-including-icloud-and-app-store-down-for-thousands-of-users-12340975#publisher=newsstand",
+  "date": "2026-11-17T18:45:37+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+  "text": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+  "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+  "date": "2026-11-17T18:43:46+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "British Airways plane veers off Heathrow taxiway",
+  "text": "The Boeing 787 Dreamliner bound for Lagos is delayed after its front wheel becomes stuck in grass.",
+  "url": "https://www.bbc.co.uk/news/articles/cqx2wnwzmd8mo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:43:13+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Government backs welfare shake-up to prevent 'lost generation'",
+  "text": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+  "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:43:05+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Hegseth Nominates His Former Aide to Lead the Army",
+  "text": "After months of delay, Defense Secretary Pete Hegseth and the White House have sent Gen. Christopher LaNeve’s nomination for Army chief of staff to th",
+  "url": "https://www.nytimes.com/2026/11/17/us/hegseth-christopher-laneve-army-chief-of-staff.html",
+  "date": "2026-11-17T18:38:03+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Elusive peace: On Kashmir terror attack",
+  "text": "Restoration of Statehood is essential for peace in Jammu and Kashmir",
+  "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editoral-on-kashmir-terror-attack/article71713251.ece",
+  "date": "2026-11-17T18:37:02+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "No mechanism to check if arbitrator is fit enough, says Madras HC judge Anand Venkatesh",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/no-mechanism-to-check-if-arbitrator-is-fit-enough-says-madras-hc-judge-anand-venkatesh/article71713355.ece",
+  "date": "2026-11-17T18:33:22+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Prince William says Gen Z is the torchbearer of the global movement for change",
+  "text": "Himalayan Kingdom of Bhutan, Mahindra Last Mile Mobility among the five winners of Earthshot Prize",
+  "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece",
+  "date": "2026-11-17T18:32:26+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Jensen Huang Ready To Return As Nvidia CEO, Says \"Own My Mistakes\"",
+  "text": "Jensen Huang said he has seen calls from the firm's employees, investors, and customers for him to return as the CEO and he would be honoured to do so",
+  "url": "https://www.ndtv.com/world-news/would-be-honoured-to-return-as-ceo-jensen-huangs-first-statement-since-resignation-12340480#publisher=newsstand",
+  "date": "2026-11-17T18:31:54+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "All-too fallible: On India’s vote against moratorium on death penalty",
+  "text": "Death penalty requires a near-infallible criminal justice system",
+  "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
+  "date": "2026-11-17T18:26:51+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+  "text": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
+  "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+  "date": "2026-11-17T18:26:38+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+  "text": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+  "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:24:21+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "In Manila, PM Modi And Trump Give Quad New Strategic Direction",
+  "text": "Prime Minister Narendra Modi, US President Donald Trump, Australian Prime Minister Anthony Albanese and Japanese Prime Minister Sanae Takaichi agreed ",
+  "url": "https://www.ndtv.com/world-news/quad-leaders-meeting-today-in-manila-pm-modi-and-trump-give-quad-new-strategic-direction-12341022#publisher=newsstand",
+  "date": "2026-11-17T18:23:36+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+  "text": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+  "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:20:36+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "P.B. Siddhartha College to host international seminar on Viksit Bharat from November 19",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-to-host-international-seminar-on-viksit-bharat-from-november-19/article71712892.ece",
+  "date": "2026-11-17T18:20:07+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
+  "date": "2026-11-17T18:18:54+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
+  "text": "The statement comes after an online petition to reinstate Huang gathered more than 1,90,000 signatures, including from tech industry figures like Spac",
+  "url": "https://www.thehindu.com/news/international/ex-nvidia-ceo-jensen-huang-acknowledges-mistakes-signals-interest-in-return-if-company-chooses/article71713348.ece",
+  "date": "2026-11-17T18:17:12+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
+  "text": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
+  "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+  "date": "2026-11-17T18:14:06+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Who to watch in Spain's election race",
+  "text": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+  "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T18:13:45+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Measles Is Officially Back in the United States. What Now?",
+  "text": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
+  "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+  "date": "2026-11-17T18:12:14+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "U.K. sanctions Israeli companies building West Bank settlements",
+  "text": "The long-discussed E1 project would effectively cut off eastern Jerusalem from Palestinian population centres in the occupied West Bank, harming the p",
+  "url": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
+  "date": "2026-11-17T18:11:03+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "DRI searches Cipla’s Mumbai office and Bhiwandi depot over imported drug classification",
+  "text": "The pharmaceutical company said it cooperated with authorities and that the search would have no material impact on its financials or operations",
+  "url": "https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+  "date": "2026-11-17T18:10:31+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Equinor detects cyberattack against some IT systems",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5",
+  "date": "2026-11-17T18:10:14+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "BPCL plans to raise ₹9,000 crore through bond sale after nearly four years",
+  "text": "The state-run oil marketer is expected to issue debt with a tenure of around five years to fund its refinery expansion and petrochemical projects",
+  "url": "https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+  "date": "2026-11-17T18:09:20+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Kenyan delegation explores academic ties with Andhra University",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/kenyan-delegation-explores-academic-ties-with-andhra-university/article71713081.ece",
+  "date": "2026-11-17T18:08:27+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Reliance plans $1.6 billion investment in 100 compressed biogas plants by 2030",
+  "text": "The company aims to produce five million cubic metres of biogas daily using agricultural residue, as India seeks to increase gas’s share in its energy",
+  "url": "https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+  "date": "2026-11-17T18:08:09+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Two flights held up at Thiruvananthapuram international airport after crane raised on flight path",
+  "text": "The crane on the flight approach path showed up on the airport surveillance radars and the matter was reported to the air traffic control, according t",
+  "url": "https://www.thehindu.com/news/national/kerala/two-flights-held-up-at-thiruvananthapuram-international-airport-after-crane-raised-on-flight-path/article71713222.ece",
+  "date": "2026-11-17T18:07:46+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "SEBI weighs curbs on leveraged stock purchases amid rising retail exposure",
+  "text": "Proposed restrictions could prevent fresh margin-funded positions in stocks where leverage crosses a threshold linked to free float, with small- and m",
+  "url": "https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+  "date": "2026-11-17T18:05:59+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Rahul Gandhi invokes Hindu faith to defend his ‘Mama sitting on Papa’s lap’ remark",
+  "text": "Responding to the BJP’s criticism of his remarks, Mr. Gandhi shares artwork depicting Goddess Parvati perched on Lord Shiva’s lap; says “love need not",
+  "url": "https://www.thehindu.com/news/national/rahul-gandhi-invokes-hindu-faith-to-defend-his-mama-sitting-on-papas-lap-remark/article71713190.ece",
+  "date": "2026-11-17T18:05:52+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "A period of good governance, says CM; a betrayal of people says Pinarayi",
+  "text": "While Satheesan sought to paint a rosy picture of good governance, development, welfare, and fulfilled promises, Pinarayi Vijayan was scathingly criti",
+  "url": "https://www.thehindu.com/news/national/kerala/a-period-of-good-governance-says-cm-a-betrayal-of-people-says-pinarayi/article71713172.ece",
+  "date": "2026-11-17T18:05:48+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "NATO allies to discuss U.S. troop levels with Pentagon strategy chief",
+  "text": "U.S. Defense Secretary Pete Hegseth unveiled the six-month review in June and threatened to withhold some ‌U.S. dues to NATO if “free riding” allies f",
+  "url": "https://www.thehindu.com/news/international/nato-allies-to-discuss-us-troop-levels-with-pentagon-strategy-chief/article71713184.ece",
+  "date": "2026-11-17T18:03:29+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+  "text": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+  "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T17:57:56+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
+  "text": "",
+  "url": "https://www.thehindu.com/news/international/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-at-62/article71713180.ece",
+  "date": "2026-11-17T17:57:24+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Israeli forces invade Syrian village leaving homes damaged",
+  "text": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+  "date": "2026-11-17T17:57:20+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Yaduveer, Tanveer Sait review Arjuna memorial project",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/yaduveer-tanveer-sait-review-arjuna-memorial-project/article71711540.ece",
+  "date": "2026-11-17T17:55:49+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "SC pulls up MP Sanjay Raut over remarks on CJI, says ‘seasoned politician’ should know restraint",
+  "text": "Court was hearing criminal contempt petition filed by the Supreme Court Bar Association against Raut and journalist Nikhil Wagle over ‘objectionable’ ",
+  "url": "https://www.thehindu.com/news/national/sc-pulls-up-mp-sanjay-raut-over-remarks-on-cji-says-seasoned-politician-should-know-restraint/article71713195.ece",
+  "date": "2026-11-17T17:55:19+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Chandravana Kalyani to get ₹4.74 crore facelift under AMRUT 2.0",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/chandravana-kalyani-to-get-474-crore-facelift-under-amrut-20/article71712320.ece",
+  "date": "2026-11-17T17:55:05+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance",
+  "text": "Mr. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting schedu",
+  "url": "https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece",
+  "date": "2026-11-17T17:50:05+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Anne Thurston Has Died. She Revealed Salacious Details of Mao’s Life.",
+  "text": "Dr. Thurston’s works documented Mao Zedong’s personal life and the traumas of the Cultural Revolution, earning scholarly accolades — and scorn from Be",
+  "url": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
+  "date": "2026-11-17T17:49:58+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Astronaut Shubhanshu Shukla Explains Science Behind Merging Water Droplets In Space",
+  "text": "He said that playing with water is not always just child's play, as such simple activities can also offer valuable scientific lessons.",
+  "url": "https://www.ndtv.com/science/astronaut-shubhanshu-shukla-explains-science-behind-merging-water-droplets-in-space-12340696#publisher=newsstand",
+  "date": "2026-11-17T17:48:30+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ahead of UP assembly poll & PM’s visit to Bihar, state ruling party JD-U makes organizational changes",
+  "text": "JD(U) general secretary Afaque Ahmad Khan has been assigned responsibility for the party headquarters, the northeastern states, and Jammu and Kashmir.",
+  "url": "https://www.thehindu.com/news/national/jdu-announces-organisational-reshuffle-appoints-new-in-charges-for-several-states/article71711328.ece",
+  "date": "2026-11-17T17:47:08+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
+  "text": "Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull i",
+  "url": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
+  "date": "2026-11-17T17:46:56+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+  "text": "Even for a president who prizes photo opportunities, Mr. Trump’s appearance in Manila suggested a lack of interest in diplomatic wins or issues at hom",
+  "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+  "date": "2026-11-17T17:46:55+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Bangladesh connects first nuclear power plant to national grid",
+  "text": "The development comes as the South Asian nation of 170 million people grapples with a fuel crisis triggered by the conflict in West Asia",
+  "url": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
+  "date": "2026-11-17T17:44:23+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Walking test, medical examination for Thanedar posts on November 30: APPSC",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/walking-test-medical-examination-for-thanedar-posts-on-november-30-appsc/article71712967.ece",
+  "date": "2026-11-17T17:42:11+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Congress approves of SIR in Andamans and South but opposes it elsewhere: BJP",
+  "text": "Kerala Chief Minister V.D. Satheesan described SIR as good, while Karnataka Minister Satish Jarkiholi called it constitutional. Why then is Rahul Gand",
+  "url": "https://www.thehindu.com/news/national/congress-approves-of-sir-in-andamans-and-south-but-opposes-it-elsewhere-bjp/article71712762.ece",
+  "date": "2026-11-17T17:41:26+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"Must End\": India Condemns Hormuz Tanker Attack After Indian Goes Missing",
+  "text": "According to the ministry, the Indian Embassy in Oman is closely monitoring the ongoing search and rescue operations in coordination with the Omani au",
+  "url": "https://www.ndtv.com/india-news/must-end-india-condemns-hormuz-tanker-attack-after-indian-goes-missing-12340896#publisher=newsstand",
+  "date": "2026-11-17T17:41:18+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Head, Starc among players released before IPL 2027 auction",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNENCZ3dsOGZySUdCRDlwbEVRd3Y2d2RGeXhOeTZ0U0tIYnpLS0NjS2R2M2hSLTI0cDNzNGlxbWVlV3JHVm5ldENpNE55N1IzbHNPWmhLQ0hyS1JRR01NXzAyNGdLRlI3cGNwMWh0MVhQS09Rdl93UmVPb1U2Z09SLVhLejJkZ0Vza1VGWkI5WEpmdGRjVExyX0o3ejJyb3BVZFc4NjkteThNQzdM?oc=5",
+  "date": "2026-11-17T17:40:09+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Zoom, BBC, IKEA Among 200 Websites Hit By Attack To Target Apple Devices",
+  "text": "The hackers sought to steal users' credit card numbers, cryptocurrency, as well as upload code to Apple devices to further exploit them.",
+  "url": "https://www.ndtv.com/world-news/zoom-bbc-ikea-among-200-websites-hit-by-attack-to-target-apple-devices-12340885#publisher=newsstand",
+  "date": "2026-11-17T17:39:10+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Karnataka Chief Minister: State govt. plans to establish new road grid system for Bengaluru",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-state-govt-plans-to-establish-new-road-grid-system-for-bengaluru/article71713173.ece",
+  "date": "2026-11-17T17:38:55+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Stage set for launch of Indiramma Bima by Chief Minister at Siddipet on Thursday",
+  "text": "CM to release application for enrolment into the scheme",
+  "url": "https://www.thehindu.com/news/national/telangana/stage-set-for-launch-of-indiramma-bima-by-chief-minister-at-siddipet-on-thursday/article71713217.ece",
+  "date": "2026-11-17T17:38:51+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+  "text": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+  "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T17:37:04+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+  "text": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+  "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T17:35:22+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Cyclone Akvan moves slowly, likely to intensify further by November 18 morning",
+  "text": "Probable landfall between Visakhapatnam and Nellore; isolated heavy rain likely in Visakhapatnam, Alluri Sitharama Raju, Parvathipuram-Manyam, Srikaku",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-moves-slowly-likely-to-intensify-further-by-november-18-morning/article71712487.ece",
+  "date": "2026-11-17T17:35:17+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "World needs peace, stability, predictability: Modi in Manila",
+  "text": "Quad leaders issue joint statement opposing economic and maritime 'coercion' in Indo-Pacific; Modi proposes seafarers’ safety initiative at East Asia ",
+  "url": "https://www.thehindu.com/news/national/world-needs-peace-stability-predictability-modi-in-manila/article71712862.ece",
+  "date": "2026-11-17T17:35:10+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Allahabad High Court grants interim bail to Azam Khan, terms arrest by ED as ‘motivated and mala fide’",
+  "text": "The ED had apparently not provided the petitioner with written grounds of arrest; he was also taken into custody in the case moments after he was phys",
+  "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-grants-interim-bail-to-azam-khan-terms-arrest-by-ed-as-motivated-and-mala-fide/article71713082.ece",
+  "date": "2026-11-17T17:35:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Arsenal Double winner Storey dies aged 81",
+  "text": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T17:33:41+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Cyclone Akvan: RMC forecasts moderate rainfall for Chennai on Wednesday",
+  "text": "The RMC has forecast moderate rainfall at isolated places in Chennai, Tiruvallur and Chengalpattu districts on Wednesday",
+  "url": "https://www.thehindu.com/news/cities/chennai/cyclone-akvan-rmc-forecasts-moderate-rainfall-for-chennai-on-wednesday/article71712804.ece",
+  "date": "2026-11-17T17:29:48+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "15-Year wait ends: Jakkur RoB to finally open to public",
+  "text": "The Jakkur RoB connects Jakkur village to roads leading to Yelahanka via Raithara Santhe",
+  "url": "https://www.thehindu.com/news/national/karnataka/15-year-wait-ends-jakkur-rob-to-finally-open-to-public/article71713098.ece",
+  "date": "2026-11-17T17:28:34+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Jubin Mohapatra appointed Yadgir Zilla Panchayat CEO",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/jubin-mohapatra-appointed-yadgir-zilla-panchayat-ceo/article71712127.ece",
+  "date": "2026-11-17T17:28:00+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Telangana Housing Corporation DEE suspended for leaking information about 2BHK surprise inspections",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/telangana/telangana-housing-corporation-dee-suspended-for-leaking-information-about-2bhk-surprise-inspections/article71712983.ece",
+  "date": "2026-11-17T17:24:12+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Karnataka embarks on aggressive AI skilling drive; to train 63,200 students, engineers",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-embarks-on-aggressive-ai-skilling-drive-to-train-63200-students-engineers/article71712837.ece",
+  "date": "2026-11-17T17:23:05+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"The Rest Of My Life...\": Jensen Huang's Message For Family In Apology Note",
+  "text": "Following reports of his affairs with an alleged Chinese spy and two other executives of the AI chipmaker, Huang resigned as CEO of Nvidia on Thursday",
+  "url": "https://www.ndtv.com/world-news/spend-rest-of-life-being-worthy-of-yours-jensen-huangs-message-to-family-12340771#publisher=newsstand",
+  "date": "2026-11-17T17:23:05+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Three youth held for chain snatching in Villupuram",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/three-held-for-chain-snatching-incident-in-villupuram/article71711401.ece",
+  "date": "2026-11-17T17:22:13+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "US data centers slash electric bills with brief demand cuts, raising questions over who pays",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWNQR2NtWXhrdGVscW14OVhXNTdfd243QWJXV3VEZVp1N3laZEdwS0VPS3o4MTU3XzM0WmsxMDhQLTNkVGNNcm5NUDhXdnZva1R0Sm1NblJCQUZZcGJ6SjJCUnhHU2FLTS1wdE02T0tNU0htbkxBX3ZtU1o5M19OTVFERTdnaktMSlQtazJsbUg1dzVwU2ZUbU1VUGVPeUFsNko0TnRxVVFtQkdaamFpcE5XbldXc1p5NGJ4a3kxS0owOWlCX2FnVE53?oc=5",
+  "date": "2026-11-17T17:21:47+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Man Dies After Allegedly Eating Sweet Near Mumbai, Food Poisoning Suspected",
+  "text": "The food authorities have sealed the shop from where he had bought the sweets and seized stocks worth over Rs 4.58 lakh.",
+  "url": "https://www.ndtv.com/india-news/man-dies-after-allegedly-eating-sweet-in-thane-mumbra-food-poisoning-suspected-12340811#publisher=newsstand",
+  "date": "2026-11-17T17:20:28+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Iran rejects reports of \"dirty bomb\" plot against Trump officials; Araghchi calls reports \"rubbish\"",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdTFPSmFTcFA4UUliZWpnZDV1M3lGT1pwWi1KRGZCTEhiN3k3SVFSVUJjT2Q3blFET1l4bFJ1NF9qX0VPWjFxaGxVTVRRSDFuUG5Ib05lSXhOWk1JSzRyVjRHdXRLOUx6Tm9pbDlHLTYyazVoNXdyVS02SjVpQXdFZDZwQ1dzUEM4Vkh0X3FfcF9peGJEOEo5MTVURDVNclZISkdYRm4yRDdnUnJZYVFzSV9KZEVxdmVCUXFZVVlKMDBzXzFIQ2ZwVVVIal9lckJLc0hIRUUyalB6UQ?oc=5",
+  "date": "2026-11-17T17:20:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+  "text": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+  "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T17:19:57+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "‘Record horticultural production’ shows increase of 4.36% from 2024-25: Agriculture Ministry",
+  "text": "Significant increase in horticultural production reflects the hard work of India’s farmers and the impact of the Centre’s farmer-friendly policies, Ag",
+  "url": "https://www.thehindu.com/news/national/record-horticultural-production-shows-increase-of-436-from-2024-25-agriculture-ministry/article71712523.ece",
+  "date": "2026-11-17T17:19:49+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Police recover all the jewellery stolen from Tanishq showroom in Madurai",
+  "text": "Special teams went through the video footage of more than 100 CCTV cameras in Madurai and other districts to make the breakthrough, City Police Commis",
+  "url": "https://www.thehindu.com/news/cities/Madurai/madurai-tanishq-showroom-gold-heist-police-recover-all-the-burgled-gold-diamond-jewellery/article71710771.ece",
+  "date": "2026-11-17T17:19:43+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "KPSC recruitment scam: SIT arrests KPSC member",
+  "text": "",
+  "url": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-sit-arrests-kpsc-member/article71713063.ece",
+  "date": "2026-11-17T17:18:34+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "NMDC eyes 24 million tonnes pellet capacity",
+  "text": "",
+  "url": "https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece",
+  "date": "2026-11-17T17:17:09+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "India clinch silver at Asian Nations Chess Cup 2026; Aravindh wins individual gold",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblJaVjFkdzVVZFU5OEM0WF9HV1FxdTF4d01kZjY4M1ZmVHBkLWdLT1NVRmdMZ09zU1JJY1NfbmgwMGk1NmNmSzBvajB5TXJGWUdZWjcxOW82NG9LSlgtM1dKcnVSVGttZWVyNzdya1R1eVJqVzRLVm52c1NmMWt0QTFLYlJtZkhOVmoxMUJQWWVIY1dpSWphby0wak5lZ0J0MkpVZVNGYWI1Y2lyb2dvN3Q2NVk0NDJBT1JYRC1mVU9nSnNLdk1YLThia3BxZUNvOEV3?oc=5",
+  "date": "2026-11-17T17:14:00+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Haryana: Two injured as fire brigade vehicle deployed for CM's security plunges into gorge",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS25nTzNrRW9wZldTMy1wNl8tRmhNWFFSV0dKdnAwRFJfTnoxMG56MU9zOUlIVEdRN2xNNVZDTk0yVElmVVVUYmRRemxaRXc0bTlHX0tnc3RMZkQxdlpjVlhwNDZOTTRJNzBsZjZsejVBaGkxZEZvQmFQazV2eGRPQVg3TjVEUDZEQzhjcWdsb1hCX0RJWFNqazBGSEgzM0U0dk9GWE9TamwxdDVUU3FJRmh3bUJGQ2ctbUhJZktORkVsa0ZrU1hyVVRKbUdIdU84TFZoZlBzbTQtbEJBbEFMZ29yUE00YVJrUkFv?oc=5",
+  "date": "2026-11-17T17:13:00+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+  "text": "The Kerch Bridge is a crucial link in moving military and civilian supplies from Russia to Crimea and to support troops on the front line",
+  "url": "https://www.thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece",
+  "date": "2026-11-17T17:12:30+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Sai Parenterals acquiring majority stake in Bion",
+  "text": "The acquisition will add 16 established brands and around 250 field staff, strengthening its presence in India’s prescription market, Sai Parenterals ",
+  "url": "https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+  "date": "2026-11-17T17:10:42+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Highly Classified US National Security Communications Network Down: Report",
+  "text": "The agency was working to understand the scope of the problem, but there was no immediate evidence of a cyberattack",
+  "url": "https://www.ndtv.com/world-news/highly-classified-us-national-security-communications-network-down-report-12340389#publisher=newsstand",
+  "date": "2026-11-17T17:10:28+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Rising prices reflect government’s economic mismanagement: Congress",
+  "text": "Monthly costs up by over 20% for 61% of families, according to a survey cited by Congress leader Jairam Ramesh; claims PM is more pre-occupied with po",
+  "url": "https://www.thehindu.com/news/national/rising-prices-reflect-governments-economic-mismanagement-congress/article71712503.ece",
+  "date": "2026-11-17T17:03:28+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Turncoat Equation: How Defections May Complicate Poll Plans In Punjab",
+  "text": "Ticket cuts inside the Aam Aadmi Party have already produced open threats of independent runs. The BJP is quietly courting the same disgruntled legisl",
+  "url": "https://www.ndtv.com/india-news/turncoat-equation-how-defections-may-complicate-poll-plans-in-punjab-12340726#publisher=newsstand",
+  "date": "2026-11-17T16:55:56+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Don't Blame Punjab Farmers For Pollution, Says Union Agriculture Minister",
+  "text": "Congratulating farmers for what he described as a historic reduction in farm fire incidents, the Union Minister said Punjab's farmers had demonstrated",
+  "url": "https://www.ndtv.com/india-news/dont-blame-punjab-farmers-for-pollution-says-union-agriculture-minister-12340366#publisher=newsstand",
+  "date": "2026-11-17T16:49:32+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"Radhe Radhe, Kamal Khila De\": BJP's Slogan For 2027 UP Elections",
+  "text": "The slogan is expected to be one of the BJP's key campaign messages for UP electiosn 2027, drawing on Mathura's cultural identity.",
+  "url": "https://www.ndtv.com/india-news/radhe-radhe-kamal-khila-de-bjps-slogan-for-2027-up-elections-12340684#publisher=newsstand",
+  "date": "2026-11-17T16:48:33+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Fibe bets on repeat borrowers to drive digital lending growth",
+  "text": "Fintech-led personal lending in India grew at a compound annual growth rate (CAGR) of 41.4% in value and 36.7% in volume between FY20 and FY26, reflec",
+  "url": "https://www.thehindu.com/business/fibe-bets-on-repeat-borrowers-to-drive-digital-lending-growth/article71712815.ece",
+  "date": "2026-11-17T16:46:53+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
+  "date": "2026-11-17T16:43:12+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "CSK pay tribute to MS Dhoni with glittering drone show after IPL retirement",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnJNS1JmOTdrZkprYl9JT2FqcHpBNkY0RkNQREl0Y1lYMi1VS3p5dHRuQnlCTWJyZkkxaXpONUZlTGFXZEEzRWhzSmRPcHlLUjZyVm1hRGIzMXJockpRWVotVzBnTEEyTGFUejM5UVZOOHlZVXNNOWRXc0pKTHBHWlMzM1FsdHh1TU9kbXgxSHcxUXhKZjFhVzhSZWRzcjJKZm1WYXlkNnI0ckYxdjdLMm5EZTF1VmVWXzVBM1JnT3Fodk12c3BueG0xR2w?oc=5",
+  "date": "2026-11-17T16:41:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+  "text": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipat",
+  "url": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T16:38:50+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Delhi Cabinet approves Rs 5 crore plan to modernise 827 pollution testing centres",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQODlubmE2M09jVFVoN1czRERzaWgwaFQ0djBlc2NFRU1Hc2MwWjdnNnBNbVI1MXZHMWhjUWR1aXVTcm5sNU5KbDBuUXhXWlJKbk1yVW9UNUlQS01wUVhkOUVYcVQ4b2s1SUdCbE81Ty1ra1RQUG03Z3RBOHVQNzhtWHVhcXR5UGJNTkpxM2NtdTRWRTI0ZkxTblNJZFUxVUY3NFFqOEFFQ0RGc3dPeUZBejVic01weGcxdVFhUDMwWFZNNWJ1eF9fZGpXNkRQZGhtQ3FPNnNwcGdBR2lVZGc?oc=5",
+  "date": "2026-11-17T16:38:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Serbian MiG-29 Fighter Jet Crashes Near Capital, Pilot Killed",
+  "text": "The accident happened near the town of Stara Pazova, about 45 kilometres (28 miles) northwest of the capital Belgrade at around 08:45 am (0745 GMT), i",
+  "url": "https://www.ndtv.com/world-news/serbian-mig-29-fighter-jet-crashes-near-capital-pilot-killed-12340599#publisher=newsstand",
+  "date": "2026-11-17T16:31:41+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Trump and Tehran gamble on time as Iran war stalemate deepens",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
+  "date": "2026-11-17T16:23:42+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "US Attacks Iran's Qeshm Island In Strait Of Hormuz",
+  "text": "The attacks came shortly after Iran targeted US facilities in Bahrain on Tuesday, its third attack on the country in four days.",
+  "url": "https://www.ndtv.com/world-news/us-attacks-irans-qeshm-island-in-strait-of-hormuz-report-12340437#publisher=newsstand",
+  "date": "2026-11-17T16:22:57+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Wipro 3D ties up with Markforged to expand industrial 3D printing in India",
+  "text": "The collaboration will also focus on developing in-house composite additive manufacturing capabilities among Indian manufacturers.",
+  "url": "https://www.thehindu.com/business/Industry/wipro-3d-ties-up-with-markforged-to-expand-industrial-3d-printing-in-india/article71712452.ece",
+  "date": "2026-11-17T16:17:12+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Jensen Huang signals willingness to return as Nvidia CEO: Report",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2x1djdQaEs4QnFQUUl5UDBYaUc4SmY1QldwdEFxNjh0bDdKcW4wMFQzYUpmTk1YcC1zZFdGLWQteWwyUmFNVDE1azNJN2RIdjJpTFFxSHc1bXF0aERRR2VsMlRoaURUX0p5Y0ZGM0NRcjB1R3o4R2V2OFB0WmdkSUR3OGpXUFV2alotSnNQdTdCckU5dFJrOF9XdVd6TzhJMjFfN1pQQTVMYXNUY2tMZ0VxaWQ?oc=5",
+  "date": "2026-11-17T16:17:00+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Do You Need a Measles Booster?",
+  "text": "As cases spread across North America, now is a good time to check your vaccination status.",
+  "url": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
+  "date": "2026-11-17T16:14:28+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "IPL 2027: Hetmyer, Deshpande among nine players released by Rajasthan Royals",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHdQdExqcURnWm1LX1YwendaYmhnZVkyV3FCdUFna3lZb1V6RTBGTEtxRDRZbWRIWWRDUU00ZW84S1owdVl1b0wyeElTVkVpQ2ZxTXJIdFFOSUhQRG1uTUx2QUhrOHFTSmZKdDdiemQ1WXpSb0lZMlVyOVZQRlB2V0V3SzN6RDFmejBYQk9EQnlJeDJYRXpXT0c4ZWlRZjZnQnV3SFMtd1N3a2FkMmVFVnFzbk92VzdHQ2pINEFYZENUNTd4UjUyMDh0Yw?oc=5",
+  "date": "2026-11-17T16:11:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "South Africa head coach Erasmus banned for six matches",
+  "text": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T16:09:24+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Jensen Huang's daughter helped steer Nvidia response to Megaspeed scrutiny, FT reports",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQ1VUdLUzhnTkJscVVGZkYyMnA5b2QwU0FrTEdDVnR6bXVnU0dZUG8teHFsX3Y3OUlLaVlUTm85S0hEN3gwSW1YMVhoUW1Pb3hXaVNzRDVfaldMaUkyZGhBSmM5N3hlVHVBSDQ2aWRsc19sZkI3Xzg2MGxFMlRwOGY4NElWcTZjQ0x5NkdhWTZ4ejExd1Nqc1B4VDYzOWc2SzdoT0hWTTFQM2xfUklRODZtOXRodFoxV3VVWQ?oc=5",
+  "date": "2026-11-17T16:01:46+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+  "text": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the fo",
+  "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+  "date": "2026-11-17T16:00:01+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+  "text": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+  "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T15:56:04+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal",
+  "text": "Some local farmers present at the canal rushed to stop the accused. However, he retaliated by pelting stones at them and hurling abuses.",
+  "url": "https://www.ndtv.com/india-news/papa-we-will-die-maharashtra-man-throws-sons-5-and-7-into-canal-12340400#publisher=newsstand",
+  "date": "2026-11-17T15:55:39+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Woods set to return next month after two years out",
+  "text": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+  "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T15:54:36+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "BBC reports from Kyiv bridge hit by Russian attack",
+  "text": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+  "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T15:54:15+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "FA wants to host Nations League finals in England",
+  "text": "England could host the Nations League finals this season after Football Association officials register their interest.",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T15:51:30+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "US official says recent tech woes not tied to cyberattacks",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTZwOTJGM2xFNVkyZHFWejNEd21jSVpZMkdPcUg4cTU1VWo3b01FOHRsY2VHYUJ0bXJQa2tfZ1o4dkxwTWxVdjBsVEhCQXBmS3Y1bURreUN1cGNjWWNqbURxUnhrcEpqZ1ByaDV2dDFpZ1N1cmtyNVRWZS1xQkpON2F3WjBYMm5STHVQTWNta0N1cDZLTHBxcktIbGg4Zw?oc=5",
+  "date": "2026-11-17T15:49:43+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "US Lawmakers Set December 1 Date For Questioning Ex-Nvidia CEO Jensen Huang",
+  "text": "Nvidia's ex-CEO Jensen Huang is to appear before three US House committees on December 1, lawmakers said Tuesday, after a spy scandal forced him to qu",
+  "url": "https://www.ndtv.com/world-news/us-lawmakers-set-december-1-date-for-questioning-ex-nvidia-ceo-jensen-huang-12340256#publisher=newsstand",
+  "date": "2026-11-17T15:47:16+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Mumbai luxury housing market shifts towards larger 4 BHK homes",
+  "text": "Growing preference for spacious homes coupled with developers’ response to changing lifestyle expectations, suggests larger configurations and higher-",
+  "url": "https://www.thehindu.com/business/mumbai-luxury-housing-market-shifts-towards-larger-4-bhk-homes/article71712959.ece",
+  "date": "2026-11-17T15:46:46+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "French Troops Deployed In Ukraine War? France Trashes Russia's \"Absurd\" Claim",
+  "text": "Russia said Tuesday it was aware of French troops having been sent to Ukraine, calling it \"direct participation\" in the war and saying a message had b",
+  "url": "https://www.ndtv.com/world-news/french-troops-deployed-in-ukraine-war-france-trashes-russias-absurd-claim-12340343#publisher=newsstand",
+  "date": "2026-11-17T15:45:29+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "How the attack on Crimean Bridge unfolded",
+  "text": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+  "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T15:38:10+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Gujarat Titans retain 22 players including Buttler, Gill, Rabada ahead of IPL 2027",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZURZVTAtZ0RhdGlYZXZ5THJ2ZEFqaGxvM0l4d2FrV2p3MEFqRGdEVmlidFB2a0p6dl9rS3lWSjBYbUc3aXEzUXlaVWF4dXNvMXJra0lVUERQQVNwd3FBOVY0ZUFsOHU0aTVvdmZwd2g5akxBdXhqdDgtOFRIYktMUGxoaEs0S0pzZFlDTHhVZXJHNUtLR28tbGlkUUZncmxOTVB1U1hmaHNqa3hwMDdteUdJMk9FTmdWaFBTZXdYRGphaklsYlptNmk0bDdCUm81bFNj?oc=5",
+  "date": "2026-11-17T15:38:00+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "India cannot dictate terms on Hasina’s return to Bangladesh: PM’s adviser",
+  "text": "Hasina has been staying in India since fleeing the country in August 2024 following a student-led uprising that toppled her government",
+  "url": "https://www.thehindu.com/news/international/india-cannot-dictate-terms-on-hasinas-return-to-bangladesh-pms-adviser/article71712874.ece",
+  "date": "2026-11-17T15:37:11+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Family \"deeply anxious\" over Chinmoy Brahmachari’s whereabouts: Lawyer questions sudden transfer to Dhaka jail",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZmFGVHdTU1haZ2kwdDl2bUZlZWVybFZBUHMtT192cTRGYmtIZFAyb0xFcGpwbzI2TWdxMzlCYnlVWFpVeU1tbHVJbzRVdGhIYzBOSU9zNzJ3UlJKR3p1OWZKcHB3R2dkZ3VBa1BqODM2YUdvN1RjNGUtVFNkZkFpNlcwQzgzOHRDaThUSXBOWklyeHZab3BfY2tNc1FZUDBjZzBlSmtKdGVaM3M1UEk1YmdhNVNsZElZWDdkSjZJSlBneWxqclBUd1JYMDh6Ylp2NHNxbllMN2ZqNlA4UTJOQWNKaUVBZkhSYnNPSWtwMXh6NnJrd0E?oc=5",
+  "date": "2026-11-17T15:37:00+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Javed Akhtar calls Sonia Gandhi’s memoir ‘an easy read’, says he has great respect for her",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNUFnWkh0S3BXNUowczVZdnkyLWE5NVVxWkEybWE0RHlJcThrWWtyQ0c2TzFmWVBRdWtkUmpHQkx3Y2ZYYTJkdktzcGRvUlBtRTFsUkpmREFZbGI2c0x2NVdUN0tRSXpobm9UZF9vUzlJU0JoY19NRGRvS3NaX2ZtV24zMktDdFZ6TE9zbnhELW5nbUwyS0dPNGtTSmdhTUdfOEZGQW1BdWhkdnZWM2g2Zjc2cC1lbk9rRWZzU3NYQTRsVU50V1d0NXBydWMzUFRoU2JQN05ic0IwZkNWNzNHRV8tb3BrVVpDZHlpSmhvNmhkQ1hZcFE0?oc=5",
+  "date": "2026-11-17T15:36:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Cow Spotted At Delhi's Karkardooma Metro Station, Delhi Metro Responds",
+  "text": "The incident was highlighted by an X user, who shared a photograph of the cow.",
+  "url": "https://www.ndtv.com/offbeat/cow-spotted-at-delhis-karkardooma-metro-station-delhi-metro-responds-12340214#publisher=newsstand",
+  "date": "2026-11-17T15:29:38+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "IIT Delhi retains top spot in India, climbs to 19th in Asia in sustainability rankings",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZzJPdGJYZTR4TkRYYUItUTQxTVg0RzVDVjVRTjRTdlhJSlZJTllfUXRxMm03c2Y1blFCc3dYTjNHeVZISWEzOFYzUzhLNzRNR0ZhTURRZHNidmRqUFdPVm4taDNhYnlDUF9YME1mbUhLVFJZdDRJa2dkWVJKRktOdHpZaTVRR1dsaGZ6eGJiSkpudzRKSG81cGswTFVDVjdQQWRkREVlY0FaRC1ZWVhVcVJOeG5PT1JUN1lZeEtrc3FmbnFqckRqX3YwZFV1cFY0ZkhiWkM3STlNRlhYUkE2ei1pRQ?oc=5",
+  "date": "2026-11-17T15:25:00+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Explainer: What is the International Court of Justice?",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXN2b19jVXBDMm1xOGstNFEwVHk1MEktMEdIM3hpZWJFOGs5a0l1cHh3UDFOWTBSd1RzTkpTVHFlY3M2S2h1eGRhQUk4TXMtN044bWt4QTB6MnFfZ0tSUTl0Y3EtdlVyN1V3QkMwLVc4REswbWpiQ1hIYjA0N0h2TEJSaWJQQjE4dGU1Q2VxUk5uN1Zs?oc=5",
+  "date": "2026-11-17T15:18:20+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Over 15,000 Dancers Set World Record With Karbi Folk Dance Performance In Assam",
+  "text": "More than fifteen thousand dancers performed the traditional Nimso Kerung folk dance in Assam, setting a new Guinness World Record.",
+  "url": "https://www.ndtv.com/india-news/over-15-000-dancers-set-world-record-with-karbi-folk-dance-performance-in-assam-12339928#publisher=newsstand",
+  "date": "2026-11-17T15:08:41+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Alphabet's Isomorphic Labs Raises $5 Billion In Sequoia-Led Funding Round",
+  "text": "Isomorphic Chief Executive Officer Demis Hassabis said that the lab plans to use the new capital to accelerate its move toward clinical trials.",
+  "url": "https://www.ndtv.com/world-news/alphabets-isomorphic-labs-raises-5-billion-in-sequoia-led-funding-round-12340127#publisher=newsstand",
+  "date": "2026-11-17T15:07:56+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Quad Meeting Gave Fresh Momentum To Indo-Pacific Vision: PM Modi",
+  "text": "The Quad leaders unequivocally condemned terrorism and violent extremism in all its forms and manifestations, including cross-border terrorism, a join",
+  "url": "https://www.ndtv.com/world-news/quad-meeting-gave-fresh-momentum-to-indo-pacific-vision-pm-narendra-modi-12339946#publisher=newsstand",
+  "date": "2026-11-17T15:07:34+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Azam Khan Gets Interim Relief From High Court In Money Laundering Case",
+  "text": "The court directed Azam Khan's release on a personal bond along with two sureties of an equal amount.",
+  "url": "https://www.ndtv.com/india-news/azam-khan-gets-interim-relief-from-allahabad-high-court-in-money-laundering-case-12339980#publisher=newsstand",
+  "date": "2026-11-17T15:05:57+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Bangladesh: Former Education Minister Osman Farruk resigns as MP, Speaker announces seat vacant",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUxzVjMzY19TbnhjLXNabTJJWWRlNDhIZzQ5VFBnZl9ob05xbFV2d3JGVXBCVjZkNGswWDljZDRacDJ5YXZWVVBPcVlHNHIzUEl1b2EtRFJMdW1hTU42LUFUajIzNTctS09SbFVNMk9vc1ZsdnllSGFmSmRURHVueDRpc082MmZreXBrUkdZVldEaXdvOHVRaVdUc2R6WUVvaHd3QkVlM0NHOFpCZjd4Y3NCbWIwOWZZN2pTbkFqQy1JTjRnaHl5MnJudjl5TEs5eFpmeFVnX0tYdU94d2VB?oc=5",
+  "date": "2026-11-17T15:01:00+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "India strongly condemns Strait of Hormuz tanker attack as one national remains missing",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNby1HWU81N3g3ek1Lb2FaNjQzcUFncmdpMHVialhXUWNtZ2Jsd0F1bC1teVZsRENwc3ZTMHY2dkhfR290SExRakJzYzJWTjdxZ092RkJ2UTRONU1CODhqZ2t6TXpEV2UxWUlFczdMaVBqdmNiZllNNlZtSEx1WDc5eTc0dE5YVDFtdnRaazV4bk5rVC0xTmRXSUs3UGw3aHpMZDA3MEdYbEhkcjRwNXBGZkZ0MGo2ekVwT3lxMVZQQUk0NU9paHk2aG9md2lUcXVkUHQwTnhR?oc=5",
+  "date": "2026-11-17T14:51:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"MS Dhoni's Retirement Before GTA 6': Fans Get Emotional As CSK Names Him Mentor",
+  "text": "Dhoni's new role has brought an emotional moment for CSK supporters.",
+  "url": "https://www.ndtv.com/offbeat/ms-dhonis-retirement-before-gta-6-fans-get-emotional-as-csk-names-him-mentor-12339332#publisher=newsstand",
+  "date": "2026-11-17T14:49:02+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Cyclone Akvan likely to cross Andhra coast on November 20; Odisha steps up preparedness",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3lGWUc4RlM4R3hPNkYtSnNNeUdrLWc3cTgtUmx5UzcxT3pacUVRbzkzYmduby04QzFQMWM3M0FKYkk1ZU5QdUtzRWZxU21rQ0w2S1BzUzZVaG9IT3ROUU4ya000V1dlYlBSZndGcHVGaHJ5QkFmbE9PNlZVZEd0T0dSU0Zqbm9xMUNJenV3UEVhc0I1NVFqb01oTm5XQlRuVGx3ZUdJNFMzYWhRcTBUYWFuU2V1cC1rMXVwb0hUQy1mV29WT240SElnS3BWUXluUXdKZG1zWmlubW9JcUIzY3V1RXg?oc=5",
+  "date": "2026-11-17T14:47:00+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "China says it will take countermeasures if US imposes new chip curbs",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkNIbV91blZPQVFuSThXdzJHVkwtYUhEcHJ0eDBiM0xFWUYwZGRIUkctZm04MmZJZVFWanpabG1ad0NqeWRuNkhobERZLVdaeUJqbHRmd1RTWnRLdEQtSmlCVW9aTDRLSXZEbExDOHQtQngzVURZUnN1dzlndml3RDNpWThXSU9iR0U1cXZjUFRkQ1lGLThmdVpRTG5FLVlkZFVjM2RxUS1MazNDUV92YnVkQURkdTg?oc=5",
+  "date": "2026-11-17T14:45:44+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Allahabad HC grants interim bail to Azam Khan in money laundering case",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZEZiWVVnb1lXU3dlVGw3NnRHMGZTTDN5dzZPbmx0dUxjV1lLa2FvX28zaF96RUtoUXVPQm9yQXJfUlJkZDMtUTVrZ1ZkeFVWdXlxQkh6Ul9UbS1lTWNfUlFhem12WGNfT1VUWHlkdnVmTFh0QnN4Um8yYUR0cHBTWFJhVm5QRFVUSnFXYzVfeWQ2LUEwVjA1bnMxQ01fbTlraW5xcWZwSG5mRm1XdnFncTJ1WUtkRnc5dWppYzBacjE5Unh5a1g1VmRR?oc=5",
+  "date": "2026-11-17T14:44:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+  "text": "The government-backed report says its recommendations could help 440,000 young people into work by 2036.",
+  "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T14:43:05+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Mohan Bhagwat On 3-Day Visit To Manipur From Tomorrow",
+  "text": "Elaborate security arrangements have been made for the visit, Mohan Bhagwat's second to Manipur since the ethnic violence that broke out in 2023.",
+  "url": "https://www.ndtv.com/india-news/mohan-bhagwat-on-3-day-visit-to-manipur-from-tomorrow-12339951#publisher=newsstand",
+  "date": "2026-11-17T14:42:20+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "School Assembly Headlines (November 18): Top National, International, Sports News",
+  "text": "Today's headlines cover court battles and cyclone warnings to a historic IPL retirement and high-stakes global diplomacy.",
+  "url": "https://www.ndtv.com/education/school-assembly-news-headlines-november-18-top-national-international-sports-news-12339958#publisher=newsstand",
+  "date": "2026-11-17T14:41:28+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
+  "text": "President Vladimir V. Putin of Russia could meet with Kim Jong-un if he travels to Shenzhen for the APEC summit this week. North Korea has not confirm",
+  "url": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+  "date": "2026-11-17T14:37:57+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "US industrial production declines 0.4 pc in October, manufacturing output rises 0.3 pc: Federal Reserve",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcDRqMTlYTXhhS3BMZmo0cUJ2TnhvalhCZVlrZ1FQX1JKSThiUjAya2R6ZzFFNlJzMmFhdTVBOE95OGlhSUJOODBQNjZiNERwUmk3aGE2Z3lVejR1RDVMd3dwUXpFOWhWcHRxOGJTVmhyV2hqOWdMWFlVUzZGTmJnYlduTGNjdDlsWkp6YWdrVTVfckJLSEx2X3RSWjFNS2dCVGtFeDFpUkloblRtT29PZzZkcDNvVVdvX2pfcHhIZzV2dkY1SzNQVVAxWTRJRDA1bE85NGhKQ2N6LUdRdE5pWjEwbnc?oc=5",
+  "date": "2026-11-17T14:34:00+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Does This Man Have a Right to the Data From His Own Brain?",
+  "text": "J. Galen Buckwalter cheerfully agreed to provide his neural data for a research study. But when he asked for a copy, things got complicated.",
+  "url": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+  "date": "2026-11-17T14:33:13+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "'No Inconvenience': Minister Assures Punjab Farmers Over Paddy Procurement",
+  "text": "Asked about paddy procurement and the release of CCL, Shivraj Singh Chouhan said the Centre had made record procurement of both paddy and wheat and ha",
+  "url": "https://www.ndtv.com/india-news/no-inconvenience-minister-assures-punjab-farmers-over-paddy-procurement-12339891#publisher=newsstand",
+  "date": "2026-11-17T14:29:59+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Bitcoin Could Lose $500 Billion In Value If Price Falls Below $40,000. What's Really Driving The Crash?",
+  "text": "A drop to under $40,000 would wipe out roughly $500 billion from Bitcoin's $1.2 trillion market capitalization.",
+  "url": "https://www.ndtv.com/feature/bitcoin-could-lose-500-billion-in-value-if-price-falls-below-40-000-whats-really-driving-the-crash-12339359#publisher=newsstand",
+  "date": "2026-11-17T14:27:24+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "S Africa, Bangladesh frustrated as rain washes out two sessions",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczRBOGI0aFhkdXNDU25HbGo4bkk3OHdvSHloLUliNTVvRFZRVnFQZ3dQb0JkUmpKYXk1TVdWbHRBWTk5UHFYQkVQZUEzd2h4eGFIMF9MekxWaUNIWEJsT0FjaFVCUUtmZjJFT3M5aDUxQnN0eU5aMnpYSWR2MEhaWVQ3d2k2RlFPWlR3Tmp6YUxyd2liMk5rNktzeVlxMXNoVFNBX28xSkNLV3FXTUlpeA?oc=5",
+  "date": "2026-11-17T14:26:23+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Ram Temple Trust to establish Gosadan for indigenous cows within temple complex",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTTBrb0ZzWGF3Q1Q5Q0xlcGdrekk3SmIwcWJ3ZEYwMGFadm5pbnFsZUFmdUNkeEJJci1nRkZDc2pfd2dMQnhUY0FWd3RHbE5vdXJqTjRpeVh2Y3NreFhLc1FrM1l0SjlGTHdDaEx0OVJnY0JsZlN0aTdEWkFXVFNGbjgxaWN6UVp4VTJBeUlaS2Y3Sks4TVkwOHF1bmRpZ0FNNkFFOXN0aWNnVXpsMWJaOVVlbkZIQXVob1p5bm5tUWUtbkgzRjNmQnhzTEdxTEU1OE1KU0NIS3IwdDQ?oc=5",
+  "date": "2026-11-17T14:21:00+00:00"
+ },
+ {
+  "source": "New York Times",
+  "title": "Enrollment in N.Y.C. Schools Falls by 23,000",
+  "text": "New York City has lost 200,000 students over the past decade, mirroring declines in districts across the United States.",
+  "url": "https://www.nytimes.com/2026/11/16/nyregion/enrollment-nyc-schools-declines.html",
+  "date": "2026-11-17T14:18:14+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "\"They Are Crazy\": Trump On Reported Iranian 'Dirty Bomb' Plot In Washington",
+  "text": "US media, citing seven anonymous US officials, reported that US intelligence indicated that Iran was preparing to target senior Trump administration o",
+  "url": "https://www.ndtv.com/world-news/us-iran-war-they-are-crazy-trump-on-reported-iranian-dirty-bomb-plot-in-washington-12339810#publisher=newsstand",
+  "date": "2026-11-17T14:15:09+00:00"
+ },
+ {
   "source": "New York Times",
   "title": "Welcome Back, America! It’s Your Turn to Be Sorry.",
   "text": "This month, the world’s most unreliable boyfriend began to redeem himself.",
@@ -19,6 +1671,13 @@
   "text": "",
   "url": "https://www.thehindu.com/news/national/telangana/digital-data-the-equivalent-of-32-lakh-pages-of-archival-documents-handed-over/article71712124.ece",
   "date": "2026-11-17T14:09:33+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Rooney says he considered taking his own life at Man Utd",
+  "text": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure ou",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T14:09:19+00:00"
  },
  {
   "source": "The Hindu",
@@ -42,6 +1701,13 @@
   "date": "2026-11-17T14:08:41+00:00"
  },
  {
+  "source": "Reuters",
+  "title": "EU says Italy could be freed from deficit disciplinary steps in 2027",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY25mSVlVUDdWMXBCcjJDQXY5WnRqVVFRcm5Oa2NEWjlEa3NaSElXRWVOZmxXRVZmWkFNZEU3Mk5ibHlxbFRjbW9XeXJMUVkyam1BMHBEeDg3ZnpZMC0zUHVzSmFaVWZlRDhhU0ZFSEtNZVhYZkJkLVZ1QXU3dDJOUGNjWkpCRHF2UFdKUE9kZjd0QTJWV05wbDJJQzNMTTIyQmozZWRZR0NrT1R0aU9vQQ?oc=5",
+  "date": "2026-11-17T14:08:09+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "U.S. couple adopts girl child from Ongole Shishu Gruha",
   "text": "",
@@ -54,6 +1720,13 @@
   "text": "",
   "url": "https://www.thehindu.com/news/national/karnataka/forest-dept-prepares-to-launch-operation-to-capture-trouble-causing-elephants-in-belur-taluk/article71712333.ece",
   "date": "2026-11-17T14:07:40+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Congress Splitting \"People's Movement\": Ex-Ally Akhil Gogoi Slams Rahul Gandhi",
+  "text": "The letters from Gogoi, the chief of Assam's Raijor Dal, came two months after the Congress snapped ties with it.",
+  "url": "https://www.ndtv.com/india-news/congress-splitting-peoples-movement-ex-ally-akhil-gogoi-slams-rahul-gandhi-12339606#publisher=newsstand",
+  "date": "2026-11-17T14:06:53+00:00"
  },
  {
   "source": "The Hindu",
@@ -103,6 +1776,13 @@
   "text": "",
   "url": "https://www.thehindu.com/news/national/karnataka/mla-asks-corporation-to-recruit-directly-252-more-pourakarmikas/article71712366.ece",
   "date": "2026-11-17T14:01:26+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Sustainable Aviation Fuel Policy Draft To Be Out Soon For Public Comments",
+  "text": "The draft National Policy on SAF, circulated by the Civil Aviation Ministry, proposes that only fuel manufactured in India should be used for blending",
+  "url": "https://www.ndtv.com/india-news/sustainable-aviation-fuel-policy-draft-to-be-out-soon-for-public-comments-12339698#publisher=newsstand",
+  "date": "2026-11-17T14:00:03+00:00"
  },
  {
   "source": "The Hindu",
@@ -161,6 +1841,13 @@
   "date": "2026-11-17T13:54:08+00:00"
  },
  {
+  "source": "NDTV",
+  "title": "Woman Cop Found Dead In Police Quarters Washroom In Greater Noida",
+  "text": "Jarcha police station in-charge Kailash Nath told PTI that Rashmi Gautam's father tried calling her on Tuesday morning but received no response.",
+  "url": "https://www.ndtv.com/india-news/woman-sub-inspector-rashmi-gautam-found-dead-in-police-quarters-washroom-in-greater-noida-12339571#publisher=newsstand",
+  "date": "2026-11-17T13:54:06+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "ASEAN Summit LIVE updates: Quad announces Indo-Pacific Maritime Surveillance Collaboration",
   "text": "Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
@@ -168,11 +1855,25 @@
   "date": "2026-11-17T13:53:30+00:00"
  },
  {
+  "source": "ANI",
+  "title": "US retail sales growth slows to 0.2% in October from 0.8% in September; auto, furniture sales decline",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk8wd2NVeVduXzdfNHowRjZZVHd2Mjh0bWt3S2RNa3FQZmY4dy1TY2tSdHBBYnNMSkJmdUhtVk1aa3dWTENobC1HTFpqazVUSEhQb1puaFZ0bDREbEhUZUFFNC14MlhnNC1TbDV5b1lmSDczcWl2cVFEeGxGZThtYWgyWkdJMXJwS0l5UXhRNElzS2d4S09ZTkNfdi1qdzBXcVdEaXJZTmNxWnZsZ2lENnlSMGxlVEhrT19hMUUtVVNBdi1iTWc4LTkxQldCczdWM3JOellEZWQtTkxFT2N3?oc=5",
+  "date": "2026-11-17T13:53:00+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "Pilgrimage season at Sabarimala gets off to a smooth start",
   "text": "The hill temple witnessed a heavy influx of devotees in the morning, with nearly 25,000 pilgrims reaching the Sannidhanam by noon.",
   "url": "https://www.thehindu.com/news/national/kerala/pilgrimage-season-at-sabarimala-gets-off-to-a-smooth-start/article71712143.ece",
   "date": "2026-11-17T13:52:00+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "\"Single most powerful and effective people’s movement since 2014\": Akhil Gogoi accuses Congress of weakening CJP agitation through parallel protests",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQblhyMzI5S2hUbGF3aHpXYWxoa3k1Y0JlcDJKbG5xNmh2RXRheVBmMG9EQVhYT3A4MDlzR3RrM1hrN0s2cTBZWHgyOHEzQ2llWVR3YzNKZE55TUJfSUhieVBpcnMxTlh6UVhuN29PdUs4QzA2ZG1JVFJOSG00ZDBkRm1xaklTRjN4NThnaThoNnhLb2ppNWE4b2pJZm9hOVNmbUloVEtqVXR5VzZrU3JYNGRtRGtSZkg1LXhIemVlbmNHMk9SUXR0RUlUU01lQTNfdGtEd0g4MXJVRkVpZHRnNDVWQ2JfT296ZmtnZGV0OHBXLXRZWGVxSzc1OVRWOHRJOWZXNmJFZHo1cWhTdjVObzhPakd6ZDVaaDJhMjF6NGI3Zkg1OUd0UDF3ZFc4TXY2alE?oc=5",
+  "date": "2026-11-17T13:51:00+00:00"
  },
  {
   "source": "The Hindu",
@@ -250,6 +1951,13 @@
   "text": "Puthur Zoological Park to be developed as international tourism destination; tiger and deer safaris planned",
   "url": "https://www.thehindu.com/news/national/kerala/all-animals-at-thrissur-zoo-to-be-shifted-to-puthur-within-two-months-minister/article71710832.ece",
   "date": "2026-11-17T13:42:42+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Iran Targets US Radar Facility In Bahrain, Third Strike On Country In 5 Days",
+  "text": "After issuing an alert of the incoming fire, Bahrain said that its air defence systems had successfully intercepted the \"treacherous Iranian aerial at",
+  "url": "https://www.ndtv.com/world-news/iran-targets-us-radar-facility-in-bahrain-third-strike-on-country-in-5-days-12339610#publisher=newsstand",
+  "date": "2026-11-17T13:42:38+00:00"
  },
  {
   "source": "Reuters",
@@ -609,6 +2317,13 @@
   "date": "2026-11-17T13:10:58+00:00"
  },
  {
+  "source": "NDTV",
+  "title": "Students, 19, Killed In Bengaluru After Car Crashes Into Tree Amid Thick Fog",
+  "text": "The group of students, who were pursuing their second year of engineering at Sapthagiri College, were reportedly travelling to Hutridurga near Kunigal",
+  "url": "https://www.ndtv.com/india-news/students-19-killed-in-bengaluru-after-car-crashes-into-tree-amid-thick-fog-12339355#publisher=newsstand",
+  "date": "2026-11-17T13:10:43+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "New AICC in-charge B.M. Sandeep to attend PAC meeting on Nov. 22",
   "text": "",
@@ -649,6 +2364,13 @@
   "text": "",
   "url": "https://www.thehindu.com/news/cities/Hyderabad/specialised-maternal-and-child-healthcare-institute-launched-in-hyderabad/article71711873.ece",
   "date": "2026-11-17T13:08:37+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
+  "date": "2026-11-17T13:08:25+00:00"
  },
  {
   "source": "New York Times",
@@ -700,6 +2422,13 @@
   "date": "2026-11-17T13:02:07+00:00"
  },
  {
+  "source": "NDTV",
+  "title": "Rs 2,500 Loan Dispute Ends in Stabbing of Retired Army Personnel in Mumbai",
+  "text": "According to the police, the victim's son had borrowed Rs 2,500 from a neighbour and failed to pay him back.",
+  "url": "https://www.ndtv.com/india-news/rs-2-500-loan-dispute-ends-in-stabbing-of-retired-army-personnel-in-mumbai-kandivali-12339350#publisher=newsstand",
+  "date": "2026-11-17T13:01:48+00:00"
+ },
+ {
   "source": "Reuters",
   "title": "BFF investor Alken says ready to back domestic rescue solution",
   "text": "",
@@ -714,6 +2443,20 @@
   "date": "2026-11-17T13:01:11+00:00"
  },
  {
+  "source": "NDTV",
+  "title": "From Chef To AI: The Unusual Career Journey Of Jensen Huang's Daughter",
+  "text": "",
+  "url": "https://www.ndtv.com/world-news/madison-huang-from-chef-to-ai-the-unusual-career-journey-of-jensen-huangs-daughter-12339333#publisher=newsstand",
+  "date": "2026-11-17T13:00:39+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Karnataka Education Department's Mental Health Initiative To Address Exam Stress, Anxiety",
+  "text": "Student Wellbeing: The primary objective of the initiative is to provide appropriate support to alleviate exam-related fear, mental stress, and anxiet",
+  "url": "https://www.ndtv.com/education/karnataka-education-departments-mental-health-initiative-to-address-exam-stress-anxiety-12339345#publisher=newsstand",
+  "date": "2026-11-17T13:00:13+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "Violent protests erupt in Hasina’s hometown as tensions rise over her proposed return to Bangladesh",
   "text": "The protests come amid renewed tensions over Ms. Hasina’s proposed return from India, where she has been staying since fleeing Bangladesh in August 20",
@@ -726,6 +2469,20 @@
   "text": "Police and paramilitary personnel used tear gas shells, sound grenades and batons to disperse protesters who blocked the Dhaka-Aricha, Dhaka-Tangail a",
   "url": "https://www.thehindu.com/news/international/fresh-unrest-in-bangladesh-as-garment-workers-protest-block-highways-for-higher-wages/article71711657.ece",
   "date": "2026-11-17T12:59:57+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Arvind Kejriwal’s ‘Sheesh Mahal’ to open for public viewing next week: Parvesh Sahib Singh",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT3U0UFhfWU1QWWFibjdtdUpYLWJPYVRFaDhqbWhZeWEzeWF0aGxnaUFvaG8yZEhxSGRMSlVCYThubFIxc0pxUXdPQ3hkQmY3Y0NfeE9zZEY4UGdtdTA1RUItOFZQZ01hRTRERnhlS0tNWlE2cFl1bEtNQTBBb0ZkSE43TDJVcWZPUVpUVVY1WXh5VGJzLWFIczNUVkZfa2JlY1hodFVHOVRoVFlySURaNDQ0QkxMN1Q4X1U2bU5MQW1iT3pCV1YyaVJYZmZlSnFZU1VDSEMyRXNyckhTcnI2eVRRRGduQ3plZXpleU04MA?oc=5",
+  "date": "2026-11-17T12:58:00+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Bengaluru Man Claims Amazon Delivery Agent Yelled At Him For Large Grocery Order, Slammed Items On Floor",
+  "text": "In a Reddit post, the man said the delivery executive appeared visibly annoyed when he arrived with the order.",
+  "url": "https://www.ndtv.com/offbeat/bengaluru-man-claims-amazon-delivery-agent-yelled-at-him-for-placing-large-grocery-order-slammed-items-on-floor-12339194#publisher=newsstand",
+  "date": "2026-11-17T12:56:43+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -833,6 +2590,13 @@
   "date": "2026-11-17T12:28:03+00:00"
  },
  {
+  "source": "NDTV",
+  "title": "Cat Reunites With Owner Four Days After Brooklyn Building Collapse",
+  "text": "In the video, Isaac could be heard meowing repeatedly as building officials handed him over to Coleman in a pet carrier.",
+  "url": "https://www.ndtv.com/world-news/cat-reunites-with-owner-four-days-after-brooklyn-building-collapse-12339111#publisher=newsstand",
+  "date": "2026-11-17T12:26:36+00:00"
+ },
+ {
   "source": "Al Jazeera",
   "title": "Trump addresses Quad leaders at first summit since 2024",
   "text": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
@@ -852,6 +2616,20 @@
   "text": "Forex traders said fresh foreign fund inflows and softer crude oil prices are supporting the rupee, while a stronger dollar and rising U.S. yields rem",
   "url": "https://www.thehindu.com/business/Industry/rupee-rises-43-paise-to-close-at-9351-provisional-against-us-dollar/article71711483.ece",
   "date": "2026-11-17T12:19:19+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Oligarchs, Epstein, Systemic Failures: Explosive Secrets Of Deutsche Bank",
+  "text": "The revelations come at a difficult time for Deutsche Bank. German authorities have raided its offices three times this year, while the lender remains",
+  "url": "https://www.ndtv.com/world-news/oligarchs-epstein-systemic-failures-explosive-secrets-of-deutsche-bank-12339130#publisher=newsstand",
+  "date": "2026-11-17T12:19:01+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "\"Pride of Gonda\": Baba Ramdev hails Alok Das Ji Maharaj on organising Shri Ram Katha Mahotsav",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOREFsS3haMkdUM25xVW4xX0ZVOFd5M3RTUHV4RW9ROENsZjVqbnN6aTVMa00yNXd6elF6WUgzY3E0akhNQWxDanpPN1A5dnVfYkN6UE5VWXB1QU51SWJFMmJIZ1llV3RxT29GZUs5c2lCNjZtZm5ua1ctNGhQWHRDUzBnUW9ad09ucktCa1BaWUhWRVlYeUR2QjgyZGphT0pWUjRDWEExQ2JiMW1GV2czTW5DVFBxMGpWb0ZkY2RzQUtzQmR3bXEzc1pWRllyR1R0bkcwMVo2amxmeVR5aGpjTHNWVzRBR01jbE9mRQ?oc=5",
+  "date": "2026-11-17T12:19:00+00:00"
  },
  {
   "source": "Reuters",
@@ -894,6 +2672,13 @@
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlo2VTVwTGRISXFPQ2lld2FvUVJxMktBMXFsX2Zrb2FpV3RnZVlEa3JJazJra0xZcEM0VzNNdE9xSkpKV3dLS2VtY1RvMFBoajhYRFBhWUQ2Nk1MeDg1Y3duNGZBUm8tbjdCVHc3elpyMXFTQW83U1Q4WlJIQmE3MnkwVDl4LVdfLUZ2dnhMU0hWU1I4Q3F0TFB3QndMNUVjZG9TSUpXOUxrR1JrYlBzRmx3MFh3OGVXYklxdjNESzZHaXc?oc=5",
   "date": "2026-11-17T12:08:37+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Air India, Airbus ink pact to build India’s first voluntary corporate sustainable aviation fuel programme",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbHVHUk4wM0tlbVpMQ1NDdHJsVk1LVGI1RXo0WjJoTEtHRDREYzBrdFZQMGM0dVRiYlNwN3ZEdzhVRW9fSFItNWV5dVBOU0ZrbEZsazhwdGRxUXQ0V1U0ajMzVmR3Ym15UERWMVpNOGRiNnhYTGFJZnQ0blU4UFNWYmpXYW9uaWg4YWRPRGZsNEl6SVQ0VVRRb29BS0hhRmVaQXpkNVY3bk9sSFZHaUowTE1jSnN0cnNaeTl4Q3o1X2dIVTNheXczTjY3ODl4NlFoSkczUUtvZmxrWUF3Y01zbElWcUJTZHU4TlhwMlJRVQ?oc=5",
+  "date": "2026-11-17T12:08:00+00:00"
  },
  {
   "source": "New York Times",
@@ -1023,6 +2808,13 @@
  },
  {
   "source": "Reuters",
+  "title": "Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGJaT3hzb2NaLWVpNEw5Z29uaXZUYkNEUTNxck1XdmpULWo3SVY0MEVZbEVHMFkyUzRlcDUtYW9OOXNaMFV6MUVzMFJ6SFJwcmdlSFNWTmxuVjJ1UEtic1dUS0tVZ3pQYkxKOW1lelZ2TkxMUWFkV1JZMXYxTmhUQUpRZ1RybmJYZ3l1ZUU5Y1RxRng1dXd0MzY1eE4xOGxRSE8yQnF6MUxhQjIxZGVGbk5NOUFiS1JlNk5QcFBnWQ?oc=5",
+  "date": "2026-11-17T11:48:09+00:00"
+ },
+ {
+  "source": "Reuters",
   "title": "EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
@@ -1041,6 +2833,13 @@
   "text": "The announcement came after the United States tightened restrictions on AI chip exports following revelations that Jensen Huang had an extramarital af",
   "url": "https://www.ndtv.com/world-news/nvidia-creates-oversight-committee-for-national-security-export-controls-12338870#publisher=newsstand",
   "date": "2026-11-17T11:43:39+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "PM Modi says Manila and Quad share an \"age-old and special bond\" as leaders chart next phase of cooperation",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRmJlWE43TkZhYkExcWVBTG9IajRJbXJfWE0tVDJuRDZONnE1YlkyNVZLMm43TkN6eF9pLUI5bi13TlBpVWIwLS1sb05rUG1NSnZtWFFzYkZGRlc3RnYwdGpNSFZlOW93a3hYVXZwbm5DM192OGhvbm9qbTZtSFlYcURVWHE1OGJTc3htSjBDNjlHQVBEU2FSTk55d1duaFRLSGxaeVlBUmxUdEtHbUJZM0pjTmw5TUJYTXB5VzJ0MUh0UHpIWHdQcWtjLW42aklfb2cxU21JamJ1eHVGbk0wZ3NRWFh1NllWWDBoQjd5MA?oc=5",
+  "date": "2026-11-17T11:39:00+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -1211,6 +3010,13 @@
   "date": "2026-11-17T11:04:57+00:00"
  },
  {
+  "source": "National Geographic",
+  "title": "2026: Pictures of the Year",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjdQNlBBWWFnZFJSX1k1bzhramFBeDliQ0hZR2JLS1prZUNySTI4Umgxa1Y1ZEZPRzBNYjkzekdRSW5FZjBCbGtBWU4zbmpMMGdMazE2RHBZWjdNZnlncUQ1TkRTRzBUSUlhY1E0dm1ISHQ0SDltSlB2c01VSWp3T0lSNmFoUnMz?oc=5",
+  "date": "2026-11-17T11:02:04+00:00"
+ },
+ {
   "source": "New York Times",
   "title": "Tracking China’s War of Words Against Japan",
   "text": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
@@ -1286,6 +3092,13 @@
   "text": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
   "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-17T10:36:21+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "IPL career over, Dhoni unveiled as Chennai team mentor",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXy1kQ0pOYWpucldhVjJvOFZZX29wbWRCTTJhQ0JlclZQTmJCXzZ2N1h6OHdlYURlQ1IwOVdiRERPSk9EMFdiNGZ6WDNXQndaZW1SSVVNYXZZb002d3ZrLWd6ZThMTGNXd0xRQms2LW1JOE1DRkZ0cl9FdVZUdWpyczZFUlFMN2Nib2xuMVZBVnp5X1JjVG52ekMxMlFrU0E?oc=5",
+  "date": "2026-11-17T10:35:48+00:00"
  },
  {
   "source": "New York Times",
@@ -1680,6 +3493,13 @@
   "date": "2026-11-17T09:14:54+00:00"
  },
  {
+  "source": "ANI",
+  "title": "Telangana CM Revanth Reddy Seeks Chhattisgarh’s NOC for Sammakka Sagar Barrage",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVnR0LXZmV1VQd1NBMDlBTEFEcGZ4MVR0SVJSVVRUWlZhMkphZWFkS2pUN0dqUExYeDhYdUpoT3dLT2kwaFdYSVA3eDV2Q3BuakFsSkFxZ3pPOEpiUE41aEtfMm5nTC12ODVkeGtMNG9WbW5aSGRQM3hTUnl5dHB1Z091ZHJqcmtqWHFIcWFDUlFJYk9tWEpiMGU1TVVpdTVnREhmUy1VbnBuOXhJNXFTc3ZwZlhTT0ZtVTZ6ZkZIVV9OQnMxTTd4LWJlcDlkd0RMMm1WM2trTWNiOUhobHc?oc=5",
+  "date": "2026-11-17T09:14:00+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "PM Modi leads foundation stone-laying ceremony for Philippines’ oldest gurudwara’s redevelopment",
   "text": "PM Narendra Modi, who is on a three-day visit to the Philippines, said he felt \"very blessed\" to visit the over a century-old Gurudwara Khalsa Diwan i",
@@ -1699,6 +3519,13 @@
   "text": "President Trump’s well-known affinity for autocratic leaders was on display the last time he met with President Ferdinand R. Marcos Jr. of the Philipp",
   "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
   "date": "2026-11-17T09:09:26+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Bengaluru-bound IndiGo flight aborts take-off due to technical snag, passengers safely deplaned",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb2FhQ2dFc2p2d1hqOEltTEFOeVpkelc3LVByX1hhVWQtbndYQVFPRWttUEVKVnNuTi15RDgtRGt6WHc1MkhlN1czUmlhZjJ4ak5BbkhUZHFBNkVvTFpiNl84aTdsY0dSR3JtRXh5SzdGVXBYY0ViQ2M0Ty0zV2thTUNPMlRHUHJodG5fa280YkJDaVZaeWJkS0V4eTlsbUptOHZHMXMybkdZeUVEbVBNMWE4UnZobTlxNVRGQlB0eVZGbHJERnpzUC1XTzJ1S3ZhVDhTbzFzb0w1MVJKbXdtWFVIRlhieXV4UGw3QWJsSQ?oc=5",
+  "date": "2026-11-17T09:08:00+00:00"
  },
  {
   "source": "NDTV",
@@ -1804,6 +3631,13 @@
   "text": "\"In the past few years, the world has faced a series of crises. What the world needs most today is peace, stability, and predictability,\" he said.",
   "url": "https://www.ndtv.com/world-news/cooperation-not-competition-must-shape-future-pm-narendra-modi-at-asean-summit-12337468#publisher=newsstand",
   "date": "2026-11-17T08:32:02+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "Former JLL India Senior Managing Director Launches Kaspian Partners, Introduces AssetAdvantage: Managed Asset Services for Commercial Property Owners",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPcVE4UExwdHlpaXdJdmRld1FjMU45TExvSUdrNFk5eXJLbXU5VnVHWVNMVWdKVlBRbEN4dzRCT1RyUDJuaTJIZzhBN2Q1MGdlRmtMMDk3cE1tTlloeU4zemNrNkZCSUZ3aHp6UVhMSExpdlEwOXp3LUZERDk2RkF4T3Q4MXpzSTlBdmx0bG52aEMxbjEyRjgtb1RxODBTTGlhd1pVSWlRRi11RDNudzBjVF9WYzZra3Y2Qm90aVprcWF1Q2FKQTV1NEZIXzdwNXl3YjRBMmozY0dfekRTU2dNOERfTEkxQ0Q5dDRpWm1FZ2p0My1uV3BsU2ZIY29hclM0NHBNVmFjdS0yQkRIeV9vOE1xXzFaZG1QU3Jua1JzSkFFNUJO?oc=5",
+  "date": "2026-11-17T08:32:00+00:00"
  },
  {
   "source": "ANI",
@@ -1950,6 +3784,13 @@
   "title": "Allahabad High Court reserves judgment on Azam Khan’s plea challenging ED arrest",
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVzRlRFh0YmdFWXR5cnZWalBWcnQzbURQWWg2d1JRT3l5d0NFZXJsVUp0dEUxYlZRSG9OOGFmdERaT0E1Q0EwQ1V3OXFVOHVDcWFqOHNFbmhzZzRBbS1mNTRHTXJPV1dKQ29oSzNKZmZRWm44aThUOGpTWTNQSlkweWxGYXJ4bUltQjVHMUZzOU9keHVkRGpqUGNub3BLb1l0emJYeWdoTlRSX1dUOTVjenhkTGhjWlh0VGxzRUVyZVVQamd6UUZDWkx6dWtra0lvVUdJaDJrOGw3UkdscnFFWQ?oc=5",
+  "date": "2026-11-17T07:52:00+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "FM Sitharaman chairs third pre-Budget consultation with manufacturing sector leaders ahead of Union Budget 2027-28",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ1cyRUp4V1FsbFRLbEdMcDV1Yms5ekRaMlhzd25UT1NsUTE0VDR6b0owN0FQZWNJdTlWbmZLRmdQZFNTNEcwb2hNc29ZcExkZG1mNmt2TkN6UEd4bnAwa0c2dUViejNWQTNrRmxKVU5uV0wxUzBYQW9DTlpTX2VKTVdTS1NlczFLYVd2SzFRMmtaQXc1Wk4wYmV1R2NiZVQwQ0hBcG81Z2JwQkZnSWZKbTB3ck85Y1h4WW1KVEhFQXBXUGZqajE1eXJveHRwNHBHaHpwQUotZUJIaDZMMy1TNDJfRGVwWngzRGRDbGpRcGpJSllfVmZnLQ?oc=5",
   "date": "2026-11-17T07:52:00+00:00"
  },
  {
@@ -2534,6 +4375,13 @@
   "date": "2026-11-17T05:47:00+00:00"
  },
  {
+  "source": "ANI",
+  "title": "Jindal Global Law School welcomes 40 New Faculty Members, expands Academic Community to 440",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHB6ZVAtR0hubGtBOTkwc0M2N0k2T0FJbjVSWnM2bUZFakZVczQ2V1NlV1lmTnZCTkRyQXNSX1ZfSGJYTkl5Z09oaUxkblk1WkVMS3FEYlh4cmR2TnkwV0hLMUdmb0tONTdWQVZ2M2N0VDNwWGxJYjVERUNDREdqcmNobG9KTGc3czU0aUhlVUpmSUY4dmY4OXBMM2R2Q3Q0Z2FXU2lGZUw4bUhYallNeTVPYllWWnlzN3RUZFR2TUdtNlFNN2dDVUlkellCRks0VENMNGlBSG8?oc=5",
+  "date": "2026-11-17T05:46:00+00:00"
+ },
+ {
   "source": "Reuters",
   "title": "Iran attacks US military radar system in Bahrain despite talks with mediators",
   "text": "",
@@ -2700,6 +4548,13 @@
   "text": "International Tolerance Day was observed worldwide on November 16. Here is an quiz on what we know about tolerance day",
   "url": "https://www.thehindu.com/news/international/the-hindu-quiz-international-tolerance-day/article71710385.ece",
   "date": "2026-11-17T04:44:51+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "COP31: India highlights critical role of big cat conservation in climate change mitigation",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSjlmUkVncS1hMW9SOWJ2Q0RmeFRoYVZONkxLcDZTYm5IajJXMXUyZFRab2VNSmlFRlQ0UnI1LTNTdElKSW0xUXg0ZWpfRnhJWG5JZXZFb0FZSjJoYjdrQ0NGZ3p0R21janZXYjAxODNKc09lZ2RlbktucFhWRHNUaXI3M0lTczBKdGowWDBtYmY2TnA2QlNXcm1sZXFISzFwMFpZTmhlOF8wZUFOVFBkbnBXQlAzYUFHTU1IVTBmTmJnc0RKQ0hWSm50MVdqLXFZMlZRaDFJME5lWGtfQy1jZGpjVQ?oc=5",
+  "date": "2026-11-17T04:40:00+00:00"
  },
  {
   "source": "Reuters",
