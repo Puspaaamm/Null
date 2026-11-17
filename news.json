@@ -1,1 +1,74 @@
-{"updated": null, "retention_days": 92, "status": {}, "days": []}
+{
+ "updated": "2026-11-17T14:16:32.550546+00:00",
+ "retention_days": 92,
+ "status": {
+  "BBC": {
+   "ok": true,
+   "fetched": 75,
+   "new": 68,
+   "errors": []
+  },
+  "The Hindu": {
+   "ok": true,
+   "fetched": 180,
+   "new": 178,
+   "errors": []
+  },
+  "Reuters": {
+   "ok": true,
+   "fetched": 100,
+   "new": 100,
+   "errors": []
+  },
+  "ANI": {
+   "ok": true,
+   "fetched": 97,
+   "new": 92,
+   "errors": []
+  },
+  "Al Jazeera": {
+   "ok": true,
+   "fetched": 25,
+   "new": 25,
+   "errors": []
+  },
+  "NDTV": {
+   "ok": true,
+   "fetched": 120,
+   "new": 102,
+   "errors": []
+  },
+  "New York Times": {
+   "ok": true,
+   "fetched": 83,
+   "new": 76,
+   "errors": []
+  },
+  "National Geographic": {
+   "ok": true,
+   "fetched": 6,
+   "new": 6,
+   "errors": []
+  }
+ },
+ "days": [
+  "2026-11-17",
+  "2026-11-16",
+  "2026-11-15",
+  "2026-11-14",
+  "2026-11-13",
+  "2026-11-12",
+  "2026-11-11",
+  "2026-11-06",
+  "2026-11-05",
+  "2026-11-03",
+  "2026-10-31",
+  "2026-10-30",
+  "2026-10-28",
+  "2026-10-25",
+  "2026-10-23",
+  "2026-10-19",
+  "2026-10-10",
+  "2026-10-02"
+ ]
+}
