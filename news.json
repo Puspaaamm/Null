@@ -1,57 +1,58 @@
 {
- "updated": "2026-11-20T22:59:05.351226+00:00",
+ "updated": "2026-11-21T03:49:38.680974+00:00",
  "retention_days": 92,
  "status": {
   "BBC": {
    "ok": true,
-   "fetched": 76,
-   "new": 14,
+   "fetched": 78,
+   "new": 16,
    "errors": []
   },
   "The Hindu": {
    "ok": true,
    "fetched": 180,
-   "new": 42,
+   "new": 18,
    "errors": []
   },
   "Reuters": {
    "ok": true,
-   "fetched": 96,
-   "new": 22,
+   "fetched": 90,
+   "new": 17,
    "errors": []
   },
   "ANI": {
    "ok": true,
    "fetched": 100,
-   "new": 19,
+   "new": 13,
    "errors": []
   },
   "Al Jazeera": {
    "ok": true,
    "fetched": 25,
-   "new": 25,
+   "new": 11,
    "errors": []
   },
   "NDTV": {
    "ok": true,
    "fetched": 120,
-   "new": 25,
+   "new": 18,
    "errors": []
   },
   "New York Times": {
    "ok": true,
-   "fetched": 75,
-   "new": 17,
+   "fetched": 73,
+   "new": 12,
    "errors": []
   },
   "National Geographic": {
    "ok": true,
    "fetched": 12,
-   "new": 2,
+   "new": 0,
    "errors": []
   }
  },
  "days": [
+  "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
