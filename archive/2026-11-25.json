@@ -1,10 +1,73 @@
 [
  {
+  "source": "BBC",
+  "title": "Motorcycle rider who took stunning cricket catch found",
+  "text": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T23:50:02+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+  "text": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+  "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+  "date": "2026-11-25T23:33:39+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "For Trump, doubling down on tariffs is about power, not popularity",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+  "date": "2026-11-25T23:31:00+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+  "text": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+  "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T23:26:50+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "'All coming together' - Isak repaying Liverpool faith",
+  "text": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T23:25:30+00:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "title": "King tides and big waves batter coastal California",
+  "text": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+  "date": "2026-11-25T23:20:03+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+  "text": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+  "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T23:18:27+00:00"
+ },
+ {
   "source": "New York Times",
   "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
   "text": "Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination.",
   "url": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
   "date": "2026-11-25T23:09:50+00:00"
+ },
+ {
+  "source": "NDTV",
+  "title": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear Weapons",
+  "text": "Kim made the remarks during an inspection of a nuclear weapons research facility on Wednesday at an unspecified location, following repeated declarati",
+  "url": "https://www.ndtv.com/world-news/kim-jong-un-calls-for-diversified-use-of-tactical-nuclear-weapons-12377953#publisher=newsstand",
+  "date": "2026-11-25T23:04:12+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Japan's data centre boom faces growing revolt from urban residents",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlVCUVVnb3Y5Yl9xbDVqMG5uX2Vtb2NEVWhlQTE5MHkwT1dsNDlVSUl1b0NmWVAxR3k5MFJJdk01WEtta2tCQWc5M1BhUGY3MUpXNlliWlVyaldFTUpCdmFDdVpNYWpqTTNuS1BxcE5HWkNkUkZmMi1oOTZJdjhOWm00bms2M0xaeUdnaS1EZjU1b3RPZW45WTFpU3B5dDRaZVdWTTZ2ZE9HZ2xCUjI2VUFfVzBUM0Q5Z1JtQVFSN01zaG9o?oc=5",
+  "date": "2026-11-25T23:02:00+00:00"
  },
  {
   "source": "New York Times",
@@ -96,6 +159,13 @@
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
   "date": "2026-11-25T22:27:46+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "NEWSLETTER: Jensen is back. What’s next for Nvidia?",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZEaGMtUmdmSmZPX1BXTmtqRG4xUXpNcFFiRmxWY0d2MnBmR0ZUWVRJM1d6Q0N6QzVjZ2NnYXVZTFNXejg5N2JaeWZTYTlHWlZJNFZYb09kS1JsY0ZadXVrLXZXN0lWNmRQdThKMmZOV1NBd0FYNk1CNnVPN0g5Zkd2ajh0c1l4VlFLbkNCYldadTl3c0Jrek0zak9XeW9BTWJMVkJ3?oc=5",
+  "date": "2026-11-25T22:25:00+00:00"
  },
  {
   "source": "New York Times",
@@ -218,6 +288,20 @@
  },
  {
   "source": "New York Times",
+  "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+  "text": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
+  "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+  "date": "2026-11-25T21:36:24+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+  "date": "2026-11-25T21:35:04+00:00"
+ },
+ {
+  "source": "New York Times",
   "title": "How Our Reporters Navigate Politics at Thanksgiving",
   "text": "A holiday gathering can be joyous. And fraught. Here’s how six reporters deal with their own dinner-table discourse. (And when they switch the topic t",
   "url": "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html",
@@ -245,11 +329,32 @@
   "date": "2026-11-25T21:28:34+00:00"
  },
  {
+  "source": "Reuters",
+  "title": "Russian forces hit Kyiv with ballistic missiles, mayor says",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
+  "date": "2026-11-25T21:28:00+00:00"
+ },
+ {
   "source": "BBC",
   "title": "Regulator chief 'has stomach' to face Man City",
   "text": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
   "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
   "date": "2026-11-25T21:27:35+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Bihar cabinet approves 1294.37 acres of land for industrial areas",
+  "text": "Cabinet also approved dismissal of 11 government doctors from service. For the first time Cabinet meeting conducted through e-Cabinet system. Bihar Ca",
+  "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-129437-acres-of-land-for-industrial-areas/article71743360.ece",
+  "date": "2026-11-25T21:26:28+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Senegal parliament adopts resolution opposing president's decision to implement budget",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXB4M0Z3YmVRY00wSW9jUGpyU0hzT2h0a0tFel9wcXFIZFVpYWphTTI5Qm1nSDYxOW5ueVU2OHdLUGx2OFlDOWV2YTg5Wjl4Z0I5VmtWWFZkS0lDdU9IUWZnTjlicHMwMkpURXZaVC1RYzJrRFg5TjJrM3VTdFJ6S29FcFhwSTNpOEluWWJTZlZsdi01amwyZWNja0ptZkJnMGRiWnFJNkE3T3FwOHZyWEhfRVpKTTkyd0pmdU4wM0hFZw?oc=5",
+  "date": "2026-11-25T21:23:43+00:00"
  },
  {
   "source": "New York Times",
@@ -264,6 +369,13 @@
   "text": "Ariel Velasquez-Morales, a native of El Salvador, smiled in a picture with a giant check. The image led immigration agents to him, and he is set for d",
   "url": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
   "date": "2026-11-25T21:22:54+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxZanZuLVM5QUcwTnVIS2FTQlJQQk1nQzRUd2dzUTRvUzZxbkpRMmxMdG1SUUNSLUgtNlRfbTRjcHpab2hGMHczTU02aDl6NnJOd2tXWlJ5MGJtQ0QtZDQ2SW4xOEVNVk55T1E4bmJEU2x6T3R0UUVmVnYzSllaZnRLNzRhOFp6dU80dEtUWTByZDloR1U4RlI1U1M1dF9wTnFaTTRYOUl1V05IVU43M0NtdC1TTVB6cWtoOGFLald3bU4xc2xlM1pBNkgyM0U?oc=5",
+  "date": "2026-11-25T21:22:00+00:00"
  },
  {
   "source": "The Hindu",
@@ -287,6 +399,13 @@
   "date": "2026-11-25T21:16:07+00:00"
  },
  {
+  "source": "Reuters",
+  "title": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
+  "date": "2026-11-25T21:13:00+00:00"
+ },
+ {
   "source": "Al Jazeera",
   "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
   "text": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
@@ -299,6 +418,13 @@
   "text": "The victim has alleged that two men present at the cafe sexually assaulted her, while the involvement of other associates has also emerged in the case",
   "url": "https://www.ndtv.com/delhi-news/delhi-cafe-gangrape-case-2-women-in-judicial-custody-1-in-police-remand-12377772#publisher=newsstand",
   "date": "2026-11-25T20:59:22+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea",
+  "text": "Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public p",
+  "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+  "date": "2026-11-25T20:59:13+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -316,10 +442,24 @@
  },
  {
   "source": "The Hindu",
+  "title": "Rahul Mamkoottathil legally bound to disclosure of phone passcodes in alleged rape case, Keralam contends in High Court",
+  "text": "The State government raised the contention before the Kerala High Court, which was considering a plea by Mamkoottathil challenging a magistrate court ",
+  "url": "https://www.thehindu.com/news/national/kerala/rahul-mamkoottathil-legally-bound-to-disclosure-of-phone-passcodes-in-alleged-rape-case-keralam-contends-in-high-court/article71743531.ece",
+  "date": "2026-11-25T20:47:58+00:00"
+ },
+ {
+  "source": "The Hindu",
   "title": "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
   "text": "Some of the accused became acquainted in prison; stolen valuables worth ₹2.39 lakh recovered, four others wanted in the Mumbra case",
   "url": "https://www.thehindu.com/news/national/maharashtra/thane-crime-branch-arrests-five-in-mumbra-dacoity-case-cracks-seven-other-cases/article71742645.ece",
   "date": "2026-11-25T20:45:39+00:00"
+ },
+ {
+  "source": "BBC",
+  "title": "Hotels need 'minimum standards' to keep women safe",
+  "text": "MPs hear calls for national hotel safety standards after an outcry over a sexual assault at a Travelodge.",
+  "url": "https://www.bbc.co.uk/news/articles/crgj3gnjeqe0o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T20:45:18+00:00"
  },
  {
   "source": "New York Times",
@@ -334,6 +474,13 @@
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
   "date": "2026-11-25T20:44:01+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "K.T. Jaleel clarifies EVM remarks, says he only raised possibility of tampering",
+  "text": "The former Keralam Minister’s remarks came as the Youth Congress lodged a complaint seeking an independent investigation into the allegations raised b",
+  "url": "https://www.thehindu.com/news/national/kerala/kt-jaleel-clarifies-evm-remarks-says-he-only-raised-possibility-of-tampering/article71742376.ece",
+  "date": "2026-11-25T20:42:50+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -406,6 +553,13 @@
   "date": "2026-11-25T20:19:48+00:00"
  },
  {
+  "source": "ANI",
+  "title": "Former Karnataka CM Siddaramaiah says Mahadevappa will attend Mysuru Constitution Day programme, rebukes reporters for allegedly \"divisive\" questions",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWU1ORWF0Z2p6eGxWRFlMcmlrQzZjRy1qT1d1SkF1UWxMMXRvOU0yOHBRTW5iQ1RMWi15ZTlJSjd2YjBFNEU4S2NaRm9lSDI5bHpZeGlaMW5heFJmWVZOT1Z0Yk1GTi1EU2JtcHlneWZXY1JOd3pJUHVEQTR3UnRwVnk2ZDlWZ0xRNHA4elpqUkpnaG9DTkszd3FZZzJsNnlwSFpaTmV5R0d5VzlBSVl4UkxFMnVmd09jXzRXTk5SSTZMaVhkTDdvb1lPZkJTNkU4d2FVTW90RDE5NXRoeTZhQk9fcUJNeHZ5aVRDbHc2MnV2d2NHZmt0RHotNkFZZnVzbzlZUjN3OEVJQzFwaU9pNUp1NjNwN2dRZDdFeW1mSjUtVWlabjdWOWNRQVJHQ2s?oc=5",
+  "date": "2026-11-25T20:18:00+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "Right to choose a partner is an aspect of constitutional freedom, not a privilege granted by a family, caste or community: Thirumavalavan",
   "text": "",
@@ -427,6 +581,13 @@
   "date": "2026-11-25T20:12:18+00:00"
  },
  {
+  "source": "BBC",
+  "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+  "text": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+  "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T20:11:46+00:00"
+ },
+ {
   "source": "NDTV",
   "title": "Explainer: How China Got Access To Nvidia's AI Chips Despite Tough Rules",
   "text": "In October 2022, the US unveiled sweeping restrictions on advanced chips to China, marking the biggest shift in US policy toward exporting technology ",
@@ -439,6 +600,13 @@
   "text": "Remember when New York was an island off this nation’s coast?",
   "url": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
   "date": "2026-11-25T19:58:21+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "How China got access to Nvidia's AI chips despite rules to stop them",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+  "date": "2026-11-25T19:58:10+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -490,6 +658,20 @@
   "date": "2026-11-25T19:41:14+00:00"
  },
  {
+  "source": "BBC",
+  "title": "What we know about Trump's Thanksgiving tariffs",
+  "text": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+  "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T19:38:05+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+  "date": "2026-11-25T19:32:39+00:00"
+ },
+ {
   "source": "Al Jazeera",
   "title": "Bellingham’s wondergoal sparks Zidane comparisons",
   "text": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
@@ -537,6 +719,13 @@
   "text": "Elon Musk hails FCC's approval of SpaceX's Starmind project as 'a great asset to America and the world.'",
   "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
   "date": "2026-11-25T19:13:02+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW0yaWlzUi0wM216d2FrV0R0b0xEbTd6TTJPcnE0MVVOREpjWFY3TnFmbEUzeGkxQUpxQ2xhcVNUeHdSV0tCRnZ1aGRPbHVwSGZfZkthQUJLcFZ3MjlvWFVXUlAzSGFzaDloX3dqZ1h3YXVQZ2lFb2Z0ZDR0SnRUM2VyME9Ta2piYlUwWjRKdEJ3cWFsVmc1NTNxNGF1cXd1eGlXSVVZQ2FWYlRmZWZQTE80bXc0bzZJbzBTSVdRQWtFOFct?oc=5",
+  "date": "2026-11-25T19:12:55+00:00"
  },
  {
   "source": "Reuters",
@@ -649,6 +838,13 @@
   "text": "",
   "url": "https://www.thehindu.com/news/national/telangana/womens-commission-urges-telangana-governor-to-recommend-special-investigation-into-illegal-oocyte-racket/article71742026.ece",
   "date": "2026-11-25T18:53:51+00:00"
+ },
+ {
+  "source": "The Hindu",
+  "title": "Madras University Academic Council held with near-full quorum after four years",
+  "text": "As many as 170 members, out of a full quorum of around 190, participated in the meeting on Wednesday",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-university-academic-council-held-with-near-full-quorum-after-four-years/article71743122.ece",
+  "date": "2026-11-25T18:52:44+00:00"
  },
  {
   "source": "The Hindu",
@@ -1085,6 +1281,13 @@
   "date": "2026-11-25T17:34:49+00:00"
  },
  {
+  "source": "BBC",
+  "title": "'Top Gear is back': Gordon Ramsay announced as new host",
+  "text": "TV chef Gordon Ramsay will lead the new presenting line-up on BBC motoring show Top Gear as it returns to screens in 2028.",
+  "url": "https://www.bbc.co.uk/news/videos/cm4gne4wgz27o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T17:32:13+00:00"
+ },
+ {
   "source": "The Hindu",
   "title": "Lotus symbol is face of the BJP, U.P. CM decision through consensus: Deputy CM Maurya",
   "text": "Whether Yogi Adityanath will continue as Chief Minister or someone else will take the role is not for me to decide, says Keshav Maurya",
@@ -1127,6 +1330,13 @@
   "date": "2026-11-25T17:19:09+00:00"
  },
  {
+  "source": "ANI",
+  "title": "Atal Amrit Abhiyan Society assures resolution of MMLS Arogya Yojana glitches, phased expansion of empanelled hospitals in Assam",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbVZZNndSRFo3SHZ4enZnSk96NDRTc2sxM0ZSaElMWUtURkZEVWxNdjhza1pnMW84YUtiSXVlbkR2Y0hmUzdaTEt4c3dobjdrcUJWWWtUM0hCaWgxTVBoamNvalliVHo4OElMSmdFM1V3UW4tZ3EySGJIbXc3TEtvYTJNQ1gwMkJvTktSQkprV0E3d1h5UE4wYWpGNGpoY2l2Z0NDbVZpU1ZRRVR5MTNSRnczVHdMVDkyd2xMdHY2ZzYxb25OVTZpeXc0bHBraGEtQmVWX0ZEaWM1dDR3SHFtTFlJMzlLOXdsVGV6NkRqSHk4ZldaVXpqbm9pWjlqNE8tLVlrZzRkc3pLOXZPWGhtTVBHdzB4SlhiYnc?oc=5",
+  "date": "2026-11-25T17:17:00+00:00"
+ },
+ {
   "source": "NDTV",
   "title": "PM Modi's December Visit Could Put India-Canada Trade Reset On Fast Track, Says Ontario Minister",
   "text": "In an exclusive interview with NDTV, Ontario's Economic Development and Trade Minister Victor Fedeli says the proposed Comprehensive Economic Partners",
@@ -1139,6 +1349,13 @@
   "text": "",
   "url": "https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece",
   "date": "2026-11-25T17:15:04+00:00"
+ },
+ {
+  "source": "ANI",
+  "title": "62nd CWMA meeting held in Delhi, Tamil Nadu takes part",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlloZUlENVNPVHVkdGRGZnJ1YlJTOWpwUGwyNURtS05aUEl1N1FOUlNTcmhyclZyYTRFOVZMNDZkVldyQ2d4OWdyMGd4RnBvWEFpNkpiNlltZVVrYkEta2RNdlpSR21nWDJPV2VCQ1JrXzdOemk5TmxwSzNDd1FESjkzc1RhNHFHMFo4OVZNcHVETS1PZDdlcFNnQWJBWDZNYUFDT21OOUZUZHFyMndQWmkxOGJtcTZJ?oc=5",
+  "date": "2026-11-25T17:14:00+00:00"
  },
  {
   "source": "The Hindu",
@@ -1246,6 +1463,13 @@
   "date": "2026-11-25T16:24:30+00:00"
  },
  {
+  "source": "BBC",
+  "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+  "text": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pak",
+  "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T16:23:03+00:00"
+ },
+ {
   "source": "New York Times",
   "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
   "text": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
@@ -1281,6 +1505,13 @@
   "date": "2026-11-25T15:52:45+00:00"
  },
  {
+  "source": "ANI",
+  "title": "ECI directs BLOs to verify voter details flagged in comparison with SIR data during ongoing Special Summary Revision",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVTRneWlQdW8yR1d1VnhqenhBR3o1UE11b1ZOQ3JQQl9lNWFaZ1FFdUYyQUNlUU9yUzJYbk0xM3R2Nlphbm1sQVpQMGZrSE4yNGREZWpMbm9SdFFKMEpLNWdTSW9ZclVkX0RpZmpKR0tKVkd6SWpSam50cWR4OWdEU1NJR2d4ZFRUQ3FuMFg5VnZ1ZzRQVnlfZ1A3aFA1Z2dSOElHZ1lUcTI4Xzh5dU5pRk1LNDdVN2w1aW9BMng4SzlldXpkVE9VdGh6UmtOYzJleGxieTFXV2F3a3IzdHZub2NKbVl1QXlMdTBWU2FnU0pGVWh2VEpyblNONHlTV2FmZGtMaGVNaFJsd3JK?oc=5",
+  "date": "2026-11-25T15:45:00+00:00"
+ },
+ {
   "source": "BBC",
   "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
   "text": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
@@ -1295,11 +1526,25 @@
   "date": "2026-11-25T15:41:39+00:00"
  },
  {
+  "source": "ANI",
+  "title": "Vijayasai Reddy pitches PRP as third front in Andhra, slams TDP and YSRCP over 'dynastic' politics",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ1NvRm52YWs0VDROUnRpYUJwUk1yOWhsT2p4bU54VUhWWWZVM2Fzb25YZDEyVGRjTTN4VGZnV3NrdHJ5bC1DMngxSnBydndodDl5b0VsaWJJUW5HZktNcGNtSFFMZG9GamwwQ1MxUWppblVxT2YxbUpDQlhnWGc1NWpNNThfX2RhOGlOWU9Pa1dLUEVtc0VyM2tZZC0taFgtQUhjX21CX2d1cExEcUxqclBNRkpKcU5OaWxQbEFtbmJGeEpfZFVoa3B3RXZBbU1DYmdnTzVlTVd1M1MyUWJLaVVNY09nUkhVdXhv?oc=5",
+  "date": "2026-11-25T15:40:00+00:00"
+ },
+ {
   "source": "Reuters",
   "title": "India's Bharti Airtel signs $130 million data centre pact with northeastern state of Assam",
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlU0UjZ2NFU0cjJCWlRHNTlHNXpFU05kR0Q4QlFKemJWYzVBWEV1SEhjeVl6RGRCWGgydTREejJyN0RSME1vWHNPSjFIVUZSRE9FMFpXeDBLcW9jajNzYzQ2VEp4czQ3SXFFcUtSSXhDTlZadFlpa3NuaGJFa01EcnVEckxXNnFJRGhxNnZJTnJGMlh5WHBlNHpueEdjVmdJSm1VZ3JYOTJqSFhISVNIdkkwQTByczhPQTdXYnZXODRWbGNuX1E?oc=5",
   "date": "2026-11-25T15:27:44+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnRsMHJNUEp3QjFnV25pWHpLeTZod1BaZjY3LTYtdzB5LWdNbFBLVkZtTFJkWTZDNkg0NGpRVkZHazhmQ0JXdUd2M3UtM1c4R3Z2bWI3VDBSWUhqZWNyZWJfUW56WmtpbWR0M3d4ZHJ0c1lvenI3b0VWd1RIdTJZZHNvRjFVY1poMXZ0ZDhiQmFlY0Q4UVZUd3RXRmJwYWVnZ0E?oc=5",
+  "date": "2026-11-25T15:24:53+00:00"
  },
  {
   "source": "ANI",
@@ -1398,6 +1643,13 @@
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0ttY3kxVXlhTkRRU3lmWC1rZ04yWWVNbU5xakw2LUZDRGM4dFVlSm03V3F1YlNCcVozUGo1azRJSzNaVEhxY1R1R3FTUVN1cDVYdktWMThrNGstMlhsYUdVRjM3Z2FvWWJBcW9ILWhBeXpVMkdqcmRlZ1lwQ21aTjM0RWcxSlB4dWlpWHZoRHN2Yi1wejcyM3lXcURCdnJNMFpGbW9zSnU0cXNCSlNKVVlTamhTaER2RmJFc091a0pNTEtFU0ZLc1JnUlcyVXhv?oc=5",
   "date": "2026-11-25T14:43:00+00:00"
+ },
+ {
+  "source": "National Geographic",
+  "title": "This Year’s Super El Niño Could Bring Dangerous Landslides to California’s Highway 1",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWd6WkF2WnF6NjlKY2swS09uOHQ4VjZvamk2TkxhS3NZU1FBaktzTmdsOFJCVFJVM2FPZGZmSW5SWHhLTkQwQ1FDNFZtM0JWY0p5R2Nnejk2bnJCUE4wak1ZVG5KemFhcVZBYUlfTXVCZEpwX0hxRTFCSmhZOFpPdVV4ZEFlOGEyZUw2c2Z0Ul9ZU2xib3E1YVpJLVB4VFlUdmRLWg?oc=5",
+  "date": "2026-11-25T14:41:56+00:00"
  },
  {
   "source": "The Hindu",
@@ -2275,6 +2527,13 @@
   "date": "2026-11-25T13:12:29+00:00"
  },
  {
+  "source": "Reuters",
+  "title": "Pictures of the Day | November 25, 2026",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTmsxcU1nbnR3S2lFMTZLSjNWNTRNQVR4LTB3RkNOSnlFQkhxMUVMUDZYdENIU1V0c3NObHhFLUZzcDJxV2JRQ05lbTFHdU5JOXNfNzR1VF9ETGNaYXRYSjdBQmtITWMybU1qeE1GaEpBekRBTm5pZ2pra3JBS0E?oc=5",
+  "date": "2026-11-25T13:11:00+00:00"
+ },
+ {
   "source": "NDTV",
   "title": "Did Jensen Huang Send Inappropriate Text To Colette Kress? Viral Screenshots Debunked",
   "text": "The viral exchanges are fabricated and have been traced to a social media account known for posting satirical content.",
@@ -2294,6 +2553,13 @@
   "text": "Sarvam had informed the government about its plans to build a platform incorporating several open-source and open-weight models to offer AI services f",
   "url": "https://www.ndtv.com/india-news/no-misuse-of-indiaai-support-by-sarvam-ai-top-government-official-12376094#publisher=newsstand",
   "date": "2026-11-25T13:09:01+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "India-UK investment treaty talks stall, pact unlikely soon, officials say",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGJVOWl3RGRjSEhobTUwN0VDcmxCQWV3LXNjVWN4WEhlQVlwOVlWcHlaZnJYZC1WNTdEUENGT21pNnJ3VVVPaE8yaXAteGx3VlA0M0xSRjFXU0xFcmZBNVkyX3N2c2g5d2NndGRGbHZFT2ZBYzh5RmJ6VGpISXB3X2F3Ujh3dkVsMEJTbGI2UWh4U2RFcFFzcmhuVDdQSzdMWDA2Qk5uS3BuZGFGNHE1RTB5SzJZRTRIajdB?oc=5",
+  "date": "2026-11-25T13:05:05+00:00"
  },
  {
   "source": "Al Jazeera",
@@ -3623,6 +3889,13 @@
   "title": "Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say",
   "text": "",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxlZTVjNXVZT0FNeGlwRmhwRFJveGR3ZEc2aFZSamJMRVc4VG4xZ3hqX3JtVW1iV1VPOHBuV2lPaEhlMzI5cWFuTW5YdUEzakJJWU5KMmtDWWRtUVk4QkNTQnpydThoaTE2bTVuOC1wX2RLbU5COEpINDRLak90X29mZ013QzI2dmJvMENhcFJtdnl1a2I0Q25WYW0yWk5QUnR3ZDJHOFBzelF4TGdUNlZ6RWllYzYzbDdVdzhPZlQ?oc=5",
+  "date": "2026-11-25T06:37:00+00:00"
+ },
+ {
+  "source": "Reuters",
+  "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
+  "text": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT19BdWdOZ3ZVRUVzWkhtazhkUnVZSnZJZDFSSFhlbExjMjQ0OHhiMHVyZ004cTQwMjE2RWRJSnRCN0oxeW1HX3QxS2puLTN6bmRhYTJMOHVIMGx3aUN3dzA2amRKOEg2OFlmWlR5WUFvRXl0Zk1GRmEzNENrZWpuTk1PUnAxeGxqcEhob0V5Snp3ZDhERzc1ZkdDc2MwTnhHcUFvME9YVXdJUXFldWN4cUtRVmNNeS1pdHl5bWgtY1diTEJZZ3ZncU1yT3podw?oc=5",
   "date": "2026-11-25T06:37:00+00:00"
  },
  {
